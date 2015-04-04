@@ -1,5 +1,3 @@
-require 'spec_helper'
-
 describe NRB::Ester do
 
   it 'responds to version' do
