@@ -16,13 +16,10 @@ Robut::Plugin.plugins << NRB::Ester::BJCPStyle
 
 # Configure the robut jabber connection and you're good to go!
 Robut::Connection.configure do |config|
-  config.jid = '278294_1761627@chat.hipchat.com/bot'
-  config.password = ''
-  config.nick = 'Ester Chatbot'
-  config.rooms = [
-                   '278294_virtual_beer_ii@conf.hipchat.com',
-                   '278294_testing@conf.hipchat.com'
-                 ]
+  config.jid =
+  config.password =
+  config.nick =
+  config.rooms =
   # Add a logger if you want to debug the connection
   #config.logger = Logger.new(STDOUT)
 end
