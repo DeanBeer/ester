@@ -12,7 +12,7 @@ require 'nrb/ester'
 # Plugins are handled in the order that they appear in this array.
 Robut::Plugin.plugins << Robut::Plugin::TWSS
 Robut::Plugin.plugins << Robut::Plugin::Ping
-Robut::Plugin.plugins << NRB::Ester::BJCPStyle
+Robut::Plugin.plugins << NRB::Ester::BeerStyle
 
 # Configure the robut jabber connection and you're good to go!
 Robut::Connection.configure do |config|

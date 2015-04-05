@@ -1,4 +1,4 @@
-describe NRB::Ester::BJCPStyle do
+describe NRB::Ester::BeerStyle do
 
   let(:sender) { 'Occam Razor' }
   let(:time) { Time.now }

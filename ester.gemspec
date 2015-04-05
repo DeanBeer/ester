@@ -29,6 +29,7 @@ Gem::Specification.new do |s|
   s.files = [
               'Chatfile',
               'LICENSE',
+              'config/bjcp_styles.yml',
               'config.ru',
               'lib/nrb.rb',
               'lib/nrb/ester.rb',
