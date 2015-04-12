@@ -1,0 +1,84 @@
+---
+  maibock:
+    :category: 5
+    :category_name: Bock
+    :subcategory: A
+    :subcategory_name: Maibock/Helles Bock
+    :aroma: Moderate to strong malt aroma, often with a lightly toasted quality and low melanoidins. Moderately low to no noble hop aroma, often with a spicy quality. Clean. No diacetyl. Fruity esters should be low to none. Some alcohol may be noticeable. May have a light DMS aroma from Pils malt.
+    :appearance: Deep gold to light amber in color. Lagering should provide good clarity. Large, creamy, persistent, white head.
+    :flavor: The rich flavor of continental European pale malts dominates (Pils malt flavor with some toasty notes and/or melanoidins). Little to no caramelization. May have a light DMS flavor from Pils malt. Moderate to no noble hop flavor. May have a low spicy or peppery quality from hops and/or alcohol. Moderate hop bitterness (more so in the balance than in other bocks). Clean, with no fruity esters or diacetyl. Well-attenuated, not cloying, with a moderately dry finish that may taste of both malt and hops.
+    :mouthfeel: Medium-bodied. Moderate to moderately high carbonation. Smooth and clean with no harshness or astringency, despite the increased hop bitterness. Some alcohol warming may be present.
+    :overall: A relatively pale, strong, malty lager beer. Designed to walk a fine line between blandness and too much color. Hop character is generally more apparent than in other bocks.
+    :comments: Can be thought of as either a pale version of a traditional bock, or a Munich helles brewed to bock strength. While quite malty, this beer typically has less dark and rich malt flavors than a traditional bock. May also be drier, hoppier, and more bitter than a traditional bock. The hops compensate for the lower level of melanoidins. There is some dispute whether Helles ("pale") Bock and Mai ("May") Bock are synonymous. Most agree that they are identical (as is the consensus for M?rzen and Oktoberfest), but some believe that Maibock is a "fest" type beer hitting the upper limits of hopping and color for the range. Any fruitiness is due to Munich and other specialty malts, not yeast-derived esters developed during fermentation.
+    :history: A fairly recent development in comparison to the other members of the bock family. The serving of Maibock is specifically associated with springtime and the month of May.
+    :ingredients: Base of Pils and/or Vienna malt with some Munich malt to add character (although much less than in a traditional bock). No non-malt adjuncts. Noble hops. Soft water preferred so as to avoid harshness. Clean lager yeast. Decoction mash is typical, but boiling is less than in traditional bocks to restrain color development.
+    :stats:
+      :og: 15.7 - 17.5 P
+      :bitterness: 23 - 35 IBU
+      :fg: 2.8 - 4.6 P
+      :color: 6 - 11 SRM
+      :abv: 6.3 - 7.4%
+    :examples: Ayinger Maibock, Mahr's Bock, Hacker-Pschorr Hubertus Bock, Capital Maibock, Einbecker Mai-Urbock, Hofbr?u Maibock, Victory St. Boisterous, Gordon Biersch Blonde Bock, Smuttynose Maibock
+
+  bock:
+    :category: 5
+    :category_name: Bock
+    :subcategory: B
+    :subcategory_name: Traditional Bock
+    :aroma: Strong malt aroma, often with moderate amounts of rich melanoidins and/or toasty overtones. Virtually no hop aroma. Some alcohol may be noticeable. Clean. No diacetyl. Low to no fruity esters.
+    :appearance: Light copper to brown color, often with attractive garnet highlights. Lagering should provide good clarity despite the dark color. Large, creamy, persistent, off-white head.
+    :flavor: Complex maltiness is dominated by the rich flavors of Munich and Vienna malts, which contribute melanoidins and toasty flavors. Some caramel notes may be present from decoction mashing and a long boil. Hop bitterness is generally only high enough to support the malt flavors, allowing a bit of sweetness to linger into the finish. Well-attenuated, not cloying. Clean, with no esters or diacetyl. No hop flavor. No roasted or burnt character.
+    :mouthfeel: Medium to medium-full bodied. Moderate to moderately low carbonation. Some alcohol warmth may be found, but should never be hot. Smooth, without harshness or astringency.
+    :overall: A dark, strong, malty lager beer.
+    :comments: Decoction mashing and long boiling plays an important part of flavor development, as it enhances the caramel and melanoidin flavor aspects of the malt. Any fruitiness is due to Munich and other specialty malts, not yeast-derived esters developed during fermentation.
+    :history: Originated in the Northern German city of Einbeck, which was a brewing center and popular exporter in the days of the Hanseatic League (14th to 17th century). Recreated in Munich starting in the 17th century. The name "bock" is based on a corruption of the name "Einbeck" in the Bavarian dialect, and was thus only used after the beer came to Munich. "Bock" also means "billy-goat" in German, and is often used in logos and advertisements.
+    :ingredients: Munich and Vienna malts, rarely a tiny bit of dark roasted malts for color adjustment, never any non-malt adjuncts. Continental European hop varieties are used. Clean lager yeast. Water hardness can vary, although moderately carbonate water is typical of Munich.
+    :stats:
+      :og: 15.6 - 17.5 P
+      :bitterness: 20 - 27 IBU
+      :fg: 3.3 - 4.8 P
+      :color: 14 - 22 SRM
+      :abv: 6.3 - 7.2%
+    :examples: Einbecker Ur-Bock Dunkel, Pennsylvania Brewing St. Nick Bock, Aass Bock, Great Lakes Rockefeller Bock, Stegmaier Brewhouse Bock
+
+  doppelbock
+    :category: 5
+    :category_name: Bock
+    :subcategory: C
+    :subcategory_name: Doppelbock
+    :aroma: Very strong maltiness. Darker versions will have significant melanoidins and often some toasty aromas. A light caramel flavor from a long boil is acceptable. Lighter versions will have a strong malt presence with some melanoidins and toasty notes. Virtually no hop aroma, although a light noble hop aroma is acceptable in pale versions. No diacetyl. A moderately low fruity aspect to the aroma often described as prune, plum or grape may be present (but is optional) in dark versions due to reactions between malt, the boil, and aging. A very slight chocolate-like aroma may be present in darker versions, but no roasted or burned aromatics should ever be present. Moderate alcohol aroma may be present.
+    :appearance: Deep gold to dark brown in color. Darker versions often have ruby highlights. Lagering should provide good clarity. Large, creamy, persistent head (color varies with base style: white for pale versions, off-white for dark varieties). Stronger versions might have impaired head retention, and can display noticeable legs.
+    :flavor: Very rich and malty. Darker versions will have significant melanoidins and often some toasty flavors. Lighter versions will a strong malt flavor with some melanoidins and toasty notes. A very slight chocolate flavor is optional in darker versions, but should never be perceived as roasty or burnt. Clean lager flavor with no diacetyl. Some fruitiness (prune, plum or grape) is optional in darker versions. Invariably there will be an impression of alcoholic strength, but this should be smooth and warming rather than harsh or burning. Presence of higher alcohols (fusels) should be very low to none. Little to no hop flavor (more is acceptable in pale versions). Hop bitterness varies from moderate to moderately low but always allows malt to dominate the flavor. Most versions are fairly sweet, but should have an impression of attenuation. The sweetness comes from low hopping, not from incomplete fermentation. Paler versions generally have a drier finish.
+    :mouthfeel: Medium-full to full body. Moderate to moderately-low carbonation. Very smooth without harshness or astringency.
+    :overall: A very strong and rich lager. A bigger version of either a traditional bock or a helles bock.
+    :comments: Most versions are dark colored and may display the caramelizing and melanoidin effect of decoction mashing, but excellent pale versions also exist. The pale versions will not have the same richness and darker malt flavors of the dark versions, and may be a bit drier, hoppier and more bitter. While most traditional examples are in the ranges cited, the style can be considered to have no upper limit for gravity, alcohol and bitterness (thus providing a home for very strong lagers). Any fruitiness is due to Munich and other specialty malts, not yeast-derived esters developed during fermentation.
+    :history: A Bavarian specialty first brewed in Munich by the monks of St. Francis of Paula. Historical versions were less well attenuated than modern interpretations, with consequently higher sweetness and lower alcohol levels (and hence was considered "liquid bread" by the monks). The term "doppel (double) bock" was coined by Munich consumers. Many doppelbocks have names ending in "-ator," either as a tribute to the prototypical Salvator or to take advantage of the beer's popularity.
+    :ingredients: Pils and/or Vienna malt for pale versions (with some Munich), Munich and Vienna malts for darker ones and occasionally a tiny bit of darker color malts (such as Carafa). Noble hops. Water hardness varies from soft to moderately carbonate. Clean lager yeast. Decoction mashing is traditional.
+    :stats:
+      :og: 17.5 - 26.3 P
+      :bitterness: 16 - 26 IBU
+      :fg: 4.1 - 6.1 P
+      :color: 6 - 25 SRM
+      :abv: 7 - 10%
+    :examples: Paulaner Salvator, Ayinger Celebrator, Weihenstephaner Korbinian, Andechser Doppelbock Dunkel, Spaten Optimator, Tucher Bajuvator, Weltenburger Kloster Asam-Bock, Capital Autumnal Fire, EKU 28, Eggenberg Urbock 23?, Bell's Consecrator, Moretti La Rossa, Samuel Adams Double Bock
+
+  eisbock:
+    :category: 5
+    :category_name: Bock
+    :subcategory: D
+    :subcategory_name: Eisbock
+    :aroma: Dominated by a balance of rich, intense malt and a definite alcohol presence. No hop aroma. No diacetyl. May have significant fruity esters, particularly those reminiscent of plum, prune or grape. Alcohol aromas should not be harsh or solventy.
+    :appearance: Deep copper to dark brown in color, often with attractive ruby highlights. Lagering should provide good clarity. Head retention may be impaired by higher-than-average alcohol content and low carbonation. Off-white to deep ivory colored head. Pronounced legs are often evident.
+    :flavor: Rich, sweet malt balanced by a significant alcohol presence. The malt can have melanoidins, toasty qualities, some caramel, and occasionally a slight chocolate flavor. No hop flavor. Hop bitterness just offsets the malt sweetness enough to avoid a cloying character. No diacetyl. May have significant fruity esters, particularly those reminiscent of plum, prune or grape. The alcohol should be smooth, not harsh or hot, and should help the hop bitterness balance the strong malt presence. The finish should be of malt and alcohol, and can have a certain dryness from the alcohol. It should not by sticky, syrupy or cloyingly sweet. Clean, lager character.
+    :mouthfeel: Full to very full bodied. Low carbonation. Significant alcohol warmth without sharp hotness. Very smooth without harsh edges from alcohol, bitterness, fusels, or other concentrated flavors.
+    :overall: An extremely strong, full and malty dark lager.
+    :comments: Eisbocks are not simply stronger doppelbocks; the name refers to the process of freezing and concentrating the beer. Some doppelbocks are stronger than Eisbocks. Extended lagering is often needed post-freezing to smooth the alcohol and enhance the malt and alcohol balance. Any fruitiness is due to Munich and other specialty malts, not yeast-derived esters developed during fermentation.
+    :history: A traditional Kulmbach specialty brewed by freezing a doppelbock and removing the ice to concentrate the flavor and alcohol content (as well as any defects).
+    :ingredients: Same as doppelbock. Commercial eisbocks are generally concentrated anywhere from 7% to 33% (by volume).
+    :stats:
+      :og: 18.9 - 28.1 P
+      :bitterness: 25 - 35 IBU
+      :fg: 5.1 - 8.8 P
+      :color: 18 - 30 SRM
+      :abv: 9 - 14%
+    :examples: Kulmbacher Reichelbr?u Eisbock, Eggenberg Urbock Dunkel Eisbock, Niagara Eisbock, Capital Eisphyre, Southampton Eisbock 

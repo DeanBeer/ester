@@ -1,0 +1,42 @@
+---
+  vienna lager:
+    :category: 3
+    :category_name: European Amebr Lager
+    :subcategory: A
+    :subcategory_name: Vienna Lager
+    :aroma: Moderately rich German malt aroma (of Vienna and/or Munich malt). A light toasted malt aroma may be present. Similar, though less intense than Oktoberfest. Clean lager character, with no fruity esters or diacetyl. Noble hop aroma may be low to none. Caramel aroma is inappropriate.
+    :appearance: Light reddish amber to copper color. Bright clarity. Large, off-white, persistent head.
+    :flavor: Soft, elegant malt complexity is in the forefront, with a firm enough hop bitterness to provide a balanced finish. Some toasted character from the use of Vienna malt. No roasted or caramel flavor. Fairly dry finish, with both malt and hop bitterness present in the aftertaste. Noble hop flavor may be low to none.
+    :mouthfeel: Medium-light to medium body, with a gentle creaminess. Moderate carbonation. Smooth. Moderately crisp finish. May have a bit of alcohol warming.
+    :overall: Characterized by soft, elegant maltiness that dries out in the finish to avoid becoming sweet.
+    :comments: American versions can be a bit stronger, drier and more bitter, while European versions tend to be sweeter. Many Mexican amber and dark lagers used to be more authentic, but unfortunately are now more like sweet, adjunct-laden American Dark Lagers.
+    :history: The original amber lager developed by Anton Dreher shortly after the isolation of lager yeast. Nearly extinct in its area of origin, the style continues in Mexico where it was brought by Santiago Graf and other Austrian immigrant brewers in the late 1800s. Regrettably, most modern examples use adjuncts which lessen the rich malt complexity characteristic of the best examples of this style. The style owes much of its character to the method of malting (Vienna malt). Lighter malt character overall than Oktoberfest, yet still decidedly balanced toward malt.
+    :ingredients: Vienna malt provides a lightly toasty and complex, melanoidin-rich malt profile. As with Oktoberfests, only the finest quality malt should be used, along with Continental hops (preferably noble varieties). Moderately hard, carbonate-rich water. Can use some caramel malts and/or darker malts to add color and sweetness, but caramel malts shouldn't add significant aroma and flavor and dark malts shouldn't provide any roasted character.
+    :stats:
+      :og: 11.4 - 12.9 P
+      :bitterness: 18 - 30 IBU
+      :fg: 2.6 - 3.6 P
+      :color: 10 - 16 SRM
+      :abv: 4.5 - 5.5%
+    :examples: Great Lakes Eliot Ness (unusual in its 6.2% strength and 35 IBUs), Boulevard Bobs 47 Munich-Style Lager, Negra Modelo, Old Dominion Aviator Amber Lager, Gordon Biersch Vienna Lager, Capital Wisconsin Amber, Olde Saratoga Lager, Penn Pilsner
+Back to top
+  oktoberfest:
+    :category: 3
+    :category_name: European Amber Lager
+    :subcategory: B
+    :subcategory_name: Oktoberfest
+    :aroma: Rich German malt aroma (of Vienna and/or Munich malt). A light to moderate toasted malt aroma is often present. Clean lager aroma with no fruity esters or diacetyl. No hop aroma. Caramel aroma is inappropriate.
+    :appearance: Dark gold to deep orange-red color. Bright clarity, with solid, off-white, foam stand.
+    :flavor: Initial malty sweetness, but finish is moderately dry. Distinctive and complex maltiness often includes a toasted aspect. Hop bitterness is moderate, and noble hop flavor is low to none. Balance is toward malt, though the finish is not sweet. Noticeable caramel or roasted flavors are inappropriate. Clean lager character with no diacetyl or fruity esters.
+    :mouthfeel: Medium body, with a creamy texture and medium carbonation. Smooth. Fully fermented, without a cloying finish.
+    :overall: Smooth, clean, and rather rich, with a depth of malt character. This is one of the classic malty styles, with a maltiness that is often described as soft, complex, and elegant but never cloying.
+    :comments: Domestic German versions tend to be golden, like a strong Pils-dominated Helles. Export German versions are typically orange-amber in color, and have a distinctive toasty malt character. German beer tax law limits the OG of the style at 14?P since it is a vollbier, although American versions can be stronger. "Fest" type beers are special occasion beers that are usually stronger than their everyday counterparts.
+    :history: Origin is credited to Gabriel Sedlmayr, based on an adaptation of the Vienna style developed by Anton Dreher around 1840, shortly after lager yeast was first isolated. Typically brewed in the spring, signaling the end of the traditional brewing season and stored in cold caves or cellars during the warm summer months. Served in autumn amidst traditional celebrations.
+    :ingredients: Grist varies, although German Vienna malt is often the backbone of the grain bill, with some Munich malt, Pils malt, and possibly some crystal malt. All malt should derive from the finest quality two-row barley. Continental hops, especially noble varieties, are most authentic. Somewhat alkaline water (up to 300 PPM), with significant carbonate content is welcome. A decoction mash can help develop the rich malt profile.
+    :stats:
+      :og: 12.4 - 14.0 P
+      :bitterness: 20 - 28 IBU
+      :fg: 3.1 - 4.1 P
+      :color: 7 - 14 SRM
+      :abv: 4.8 - 5.7%
+    :examples: Paulaner Oktoberfest, Ayinger Oktoberfest-M?rzen, Hacker-Pschorr Original Oktoberfest, Hofbr?u Oktoberfest, Victory Festbier, Great Lakes Oktoberfest, Spaten Oktoberfest, Capital Oktoberfest, Gordon Biersch M?rzen, Goose Island Oktoberfest, Samuel Adams Oktoberfest (a bit unusual in its late hopping) 

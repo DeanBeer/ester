@@ -1,0 +1,58 @@
+---
+  dark american lager:
+    :category: 4
+    :category_name: Dark Lager
+    :subcategory: A
+    :subcategory_name: Dark American Lager
+    :aroma: Little to no malt aroma. Medium-low to no roast and caramel malt aroma. Hop aroma may range from none to light spicy or floral hop presence. Can have low levels of yeast character (green apples, DMS, or fruitiness). No diacetyl.
+    :appearance: Deep amber to dark brown with bright clarity and ruby highlights. Foam stand may not be long lasting, and is usually light tan in color.
+    :flavor: Moderately crisp with some low to moderate levels of sweetness. Medium-low to no caramel and/or roasted malt flavors (and may include hints of coffee, molasses or cocoa). Hop flavor ranges from none to low levels. Hop bitterness at low to medium levels. No diacetyl. May have a very light fruitiness. Burnt or moderately strong roasted malt flavors are a defect.
+    :mouthfeel: Light to somewhat medium body. Smooth, although a highly-carbonated beer.
+    :overall: A somewhat sweeter version of standard/premium lager with a little more body and flavor.
+    :comments: A broad range of international lagers that are darker than pale, and not assertively bitter and/or roasted.
+    :ingredients: Two- or six-row barley, corn or rice as adjuncts. Light use of caramel and darker malts. Commercial versions may use coloring agents.
+    :stats:
+      :og: 10.9 - 13.8 P
+      :bitterness: 8 - 20 IBU
+      :fg: 2.1 - 3.1 P
+      :color: 14 - 22 SRM
+      :abv: 4.2 - 6%
+    :examples: "Dixie Blackened Voodoo, Shiner Bock, San Miguel Dark, Baltika #4, Beck's Dark, Saint Pauli Girl Dark, Warsteiner Dunkel, Heineken Dark Lager, Crystal Diplomat Dark Beer"
+  munich dunkel:
+    :category: 4
+    :category_name: Dark Lager
+    :subcategory: B
+    :subcategory_name: Munich Dunkel
+    :aroma: Rich, Munich malt sweetness, like bread crusts (and sometimes toast.) Hints of chocolate, nuts, caramel, and/or toffee are also acceptable. No fruity esters or diacetyl should be detected, but a slight noble hop aroma is acceptable.
+    :appearance: Deep copper to dark brown, often with a red or garnet tint. Creamy, light to medium tan head. Usually clear, although murky unfiltered versions exist.
+    :flavor: Dominated by the rich and complex flavor of Munich malt, usually with melanoidins reminiscent of bread crusts. The taste can be moderately sweet, although it should not be overwhelming or cloying. Mild caramel, chocolate, toast or nuttiness may be present. Burnt or bitter flavors from roasted malts are inappropriate, as are pronounced caramel flavors from crystal malt. Hop bitterness is moderately low but perceptible, with the balance tipped firmly towards maltiness. Noble hop flavor is low to none. Aftertaste remains malty, although the hop bitterness may become more apparent in the medium-dry finish. Clean lager character with no fruity esters or diacetyl.
+    :mouthfeel: Medium to medium-full body, providing a firm and dextrinous mouthfeel without being heavy or cloying. Moderate carbonation. May have a light astringency and a slight alcohol warming.
+    :overall: Characterized by depth and complexity of Munich malt and the accompanying melanoidins. Rich Munich flavors, but not as intense as a bock or as roasted as a schwarzbier.
+    :comments: Unfiltered versions from Germany can taste like liquid bread, with a yeasty, earthy richness not found in exported filtered dunkels.
+    :history: The classic brown lager style of Munich which developed as a darker, malt-accented beer in part because of the moderately carbonate water. While originating in Munich, the style has become very popular throughout Bavaria (especially Franconia).
+    :ingredients: Grist is traditionally made up of German Munich malt (up to 100% in some cases) with the remainder German Pilsner malt. Small amounts of crystal malt can add dextrins and color but should not introduce excessive residual sweetness. Slight additions of roasted malts (such as Carafa or chocolate) may be used to improve color but should not add strong flavors. Noble German hop varieties and German lager yeast strains should be used. Moderately carbonate water. Often decoction mashed (up to a triple decoction) to enhance the malt flavors and create the depth of color.
+    :stats:
+      :og: 11.9 - 13.8 P
+      :bitterness: 18 - 28 IBU
+      :fg: 2.6 - 4.1 P
+      :color: 14 - 28 SRM
+      :abv: 4.5 - 5.6%
+
+    :examples: Ayinger Altbairisch Dunkel, Hacker-Pschorr Alt Munich Dark, Paulaner Alt M?nchner Dunkel, Weltenburger Kloster Barock-Dunkel, Ettaler Kloster Dunkel, Hofbr?u Dunkel, Penn Dark Lager, K?nig Ludwig Dunkel, Capital Munich Dark, Harpoon Munich-type Dark Beer, Gordon Biersch Dunkels, Dinkel Acker Dark. In Bavaria, Ettaler Dunkel, L?wenbr?u Dunkel, Hartmann Dunkel, Kneitinger Dunkel, Augustiner Dunkel.
+Back to top
+4C. Schwarzbier (Black Beer)
+    :aroma: Low to moderate malt, with low aromatic sweetness and/or hints of roast malt often apparent. The malt can be clean and neutral or rich and Munich-like, and may have a hint of caramel. The roast can be coffee-like but should never be burnt. A low noble hop aroma is optional. Clean lager yeast character (light sulfur possible) with no fruity esters or diacetyl.
+    :appearance: Medium to very dark brown in color, often with deep ruby to garnet highlights, yet almost never truly black. Very clear. Large, persistent, tan-colored head.
+    :flavor: Light to moderate malt flavor, which can have a clean, neutral character to a rich, sweet, Munich-like intensity. Light to moderate roasted malt flavors can give a bitter-chocolate palate that lasts into the finish, but which are never burnt. Medium-low to medium bitterness, which can last into the finish. Light to moderate noble hop flavor. Clean lager character with no fruity esters or diacetyl. Aftertaste tends to dry out slowly and linger, featuring hop bitterness with a complementary but subtle roastiness in the background. Some residual sweetness is acceptable but not required.
+    :mouthfeel: Medium-light to medium body. Moderate to moderately high carbonation. Smooth. No harshness or astringency, despite the use of dark, roasted malts.
+    :overall: A dark German lager that balances roasted yet smooth malt flavors with moderate hop bitterness.
+    :comments: In comparison with a Munich Dunkel, usually darker in color, drier on the palate and with a noticeable (but not high) roasted malt edge to balance the malt base. While sometimes called a "black Pils," the beer is rarely that dark; don't expect strongly roasted, porter-like flavors.
+    :history: A regional specialty from southern Thuringen and northern Franconia in Germany, and probably a variant of the Munich Dunkel style.
+    :ingredients: German Munich malt and Pilsner malts for the base, supplemented by a small amount of roasted malts (such as Carafa) for the dark color and subtle roast flavors. Noble-type German hop varieties and clean German lager yeasts are preferred.
+    :stats:
+      :og: 11.4 - 12.9 P
+      :bitterness: 22 - 32 IBU
+      :fg: 2.6 - 4.1 P
+      :color: 17 - 30 SRM
+      :abv: 4.4 - 5.4%
+    :examples: K?stritzer Schwarzbier, Kulmbacher M?nchshof Premium Schwarzbier, Samuel Adams Black Lager, Kru?ovice Cerne, Original Badebier, Einbecker Schwarzbier, Gordon Biersch Schwarzbier, Weeping Radish Black Radish Dark Lager, Sprecher Black Bavarian

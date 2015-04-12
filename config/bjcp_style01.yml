@@ -1,7 +1,9 @@
 ---
   lite american lager:
-    :category: 1A
-    :display: Lite American Lager
+    :category: 1
+    :category_name: Light Lager
+    :subcategory: A
+    :subcategory_name: Lite American Lager
     :aroma: Little to no malt aroma, although it can be grainy, sweet or corn-like if present. Hop aroma may range from none to a light, spicy or floral hop presence. Low levels of yeast character (green apples, DMS, or fruitiness) are optional but acceptable. No diacetyl.
     :appearance: Very pale straw to pale yellow color. White, frothy head seldom persists. Very clear.
     :flavor: Crisp and dry flavor with some low levels of grainy or corn-like sweetness. Hop flavor ranges from none to low levels. Hop bitterness at low level. Balance may vary from slightly malty to slightly bitter, but is relatively close to even. High levels of carbonation may provide a slight acidity or dry "sting." No diacetyl. No fruitiness.
@@ -35,8 +37,10 @@
     :examples: "Pabst Blue Ribbon, Miller High Life, Budweiser, Baltika #3 Classic, Kirin Lager, Grain Belt Premium Lager, Molson Golden, Labatt Blue, Coors Original, Foster's Lager"
 
   premium american lager:
-    :category: 1C
-    :display: Premium American Lager
+    :category: 1
+    :category_name: Light Lager
+    :subcategory: C
+    :subcategory_name: Premium American Lager
     :aroma: Low to medium-low malt aroma, which can be grainy, sweet or corn-like. Hop aroma may range from very low to a medium-low, spicy or floral hop presence. Low levels of yeast character (green apples, DMS, or fruitiness) are optional but acceptable. No diacetyl.
     :appearance: Pale straw to gold color. White, frothy head may not be long lasting. Very clear.
     :flavor: Crisp and dry flavor with some low levels of grainy or malty sweetness. Hop flavor ranges from none to low levels. Hop bitterness at low to medium level. Balance may vary from slightly malty to slightly bitter, but is relatively close to even. High levels of carbonation may provide a slight acidity or dry "sting." No diacetyl. No fruitiness.
@@ -53,8 +57,10 @@
     :examples: Full Sail Session Premium Lager, Miller Genuine Draft, Corona Extra, Michelob, Coors Extra Gold, Birra Moretti, Heineken, Beck's, Stella Artois, Red Stripe, Singha
 
   munich helles:
-    :display: Munich Helles
-    :category: 1D
+    :category: 1
+    :category_name: Light Lager
+    :subcategory: D
+    :subcategory_name: Munich Helles
     :aroma: Pleasantly grainy-sweet, clean Pils malt aroma dominates. Low to moderately-low spicy noble hop aroma, and a low background note of DMS (from Pils malt). No esters or diacetyl.
     :appearance: Medium yellow to pale gold, clear, with a creamy white head.
     :flavor: Slightly sweet, malty profile. Grain and Pils malt flavors dominate, with a low to medium-low hop bitterness that supports the malty palate. Low to moderately-low spicy noble hop flavor. Finish and aftertaste remain malty. Clean, no fruity esters, no diacetyl.
@@ -72,8 +78,10 @@
     :examples: Weihenstephaner Original, Hacker-Pschorr M?nchner Gold, B?rgerbr?u Wolznacher Hell Naturtr?b, Mahr's Hell, Paulaner Premium Lager, Spaten Premium Lager, Stoudt's Gold Lager
 
   dortmunder export:
-    :category: 1E
-    :display: Dortmunder Export
+    :category: 1
+    :categroy_name: Light Lager
+    :subcategory: E
+    :subcategory_name: Dortmunder Export
     :aroma: Low to medium noble (German or Czech) hop aroma. Moderate Pils malt aroma; can be grainy to somewhat sweet. May have an initial sulfury aroma (from water and/or yeast) and a low background note of DMS (from Pils malt). No diacetyl.
     :appearance: Light gold to deep gold, clear with a persistent white head.
     :flavor: Neither Pils malt nor noble hops dominate, but both are in good balance with a touch of malty sweetness, providing a smooth yet crisply refreshing beer. Balance continues through the finish and the hop bitterness lingers in aftertaste (although some examples may finish slightly sweet). Clean, no fruity esters, no diacetyl. Some mineral character might be noted from the water, although it usually does not come across as an overt minerally flavor.
@@ -89,57 +97,3 @@
       :color: 4 - 6 SRM
       :abv: 4.8 - 6.0%
     :examples: DAB Export, Dortmunder Union Export, Dortmunder Kronen, Ayinger Jahrhundert, Great Lakes Dortmunder Gold, Barrel House Duveneck's Dortmunder, Bell's Lager, Dominion Lager, Gordon Biersch Golden Export, Flensburger Gold 
----
-  german pilsner:
-    :category: 2A
-    :display: German Pilsner (Pils)
-    :aroma: Typically features a light grainy Pils malt character (sometimes Graham cracker-like) and distinctive flowery or spicy noble hops. Clean, no fruity esters, no diacetyl. May have an initial sulfury aroma (from water and/or yeast) and a low background note of DMS (from Pils malt).
-    :appearance: Straw to light gold, brilliant to very clear, with a creamy, long-lasting white head.
-    :flavor: Crisp and bitter, with a dry to medium-dry finish. Moderate to moderately-low yet well attenuated maltiness, although some grainy flavors and slight Pils malt sweetness are acceptable. Hop bitterness dominates taste and continues through the finish and lingers into the aftertaste. Hop flavor can range from low to high but should only be derived from German noble hops. Clean, no fruity esters, no diacetyl.
-    :mouthfeel: Medium-light body, medium to high carbonation.
-    :overall: Crisp, clean, refreshing beer that prominently features noble German hop bitterness accentuated by sulfates in the water.
-    :comments: Drier and crisper than a Bohemian Pilsener with a bitterness that tends to linger more in the aftertaste due to higher attenuation and higher-sulfate water. Lighter in body and color, and with higher carbonation than a Bohemian Pilsener. Modern examples of German Pilsners tend to become paler in color, drier in finish, and more bitter as you move from South to North in Germany.
-    :history: A copy of Bohemian Pilsener adapted to brewing conditions in Germany.
-    :ingredients: Pilsner malt, German hop varieties (especially noble varieties such as Hallertauer, Tettnanger and Spalt for taste and aroma), medium sulfate water, German lager yeast.
-    :stats:
-      :og: 10.9 - 12.3 P
-      :bitterness: 25 - 45 IBU
-      :fg: 2.1 - 3.3 P
-      :color: 2 - 5 SRM
-      :abv: 4.4 - 5.2%
-    :examples: Victory Prima Pils, Bitburger, Warsteiner, Trumer Pils, Old Dominion Tupper's Hop Pocket Pils, K?nig Pilsener, Jever Pils, Left Hand Polestar Pilsner, Holsten Pils, Spaten Pils, Brooklyn Pilsner
-  bohemian pilsener:
-    :category: 2B
-    :display: Bohemian Pilsener
-    :aroma: Rich with complex malt and a spicy, floral Saaz hop bouquet. Some pleasant, restrained diacetyl is acceptable, but need not be present. Otherwise clean, with no fruity esters.
-    :appearance: Very pale gold to deep burnished gold, brilliant to very clear, with a dense, long-lasting, creamy white head.
-    :flavor: Rich, complex maltiness combined with a pronounced yet soft and rounded bitterness and spicy flavor from Saaz hops. Some diacetyl is acceptable, but need not be present. Bitterness is prominent but never harsh, and does not linger. The aftertaste is balanced between malt and hops. Clean, no fruity esters.
-    :mouthfeel: Medium-bodied (although diacetyl, if present, may make it seem medium-full), medium carbonation.
-    :overall: Crisp, complex and well-rounded yet refreshing.
-    :comments: Uses Moravian malted barley and a decoction mash for rich, malt character. Saaz hops and low sulfate, low carbonate water provide a distinctively soft, rounded hop profile. Traditional yeast sometimes can provide a background diacetyl note. Dextrins provide additional body, and diacetyl enhances the perception of a fuller palate.
-    :history: First brewed in 1842, this style was the original clear, light-colored beer.
-    :ingredients: Soft water with low mineral content, Saaz hops, Moravian malted barley, Czech lager yeast.
-    :stats:      :og: 1.044 - 1.056
-      :bitterness: 35 - 45
-      :fg: 1.013 - 1.017
-      :color: 3.5 - 6
-      :abv: 4.2 - 5.4%
-
-    :examples: Pilsner Urquell, Kru?ovice Imperial 12?, Budweiser Budvar (Czechvar in the US), Czech Rebel, Staropramen, Gambrinus Pilsner, Zlaty Bazant Golden Pheasant, Dock Street Bohemian Pilsner
-Back to top
-2C. Classic American Pilsner
-    :aroma: Low to medium grainy, corn-like or sweet maltiness may be evident (although rice-based beers are more neutral). Medium to moderately high hop aroma, often classic noble hops. Clean lager character, with no fruitiness or diacetyl. Some DMS is acceptable.
-    :appearance: Yellow to deep gold color. Substantial, long lasting white head. Bright clarity.
-    :flavor: Moderate to moderately high maltiness similar in character to the Continental Pilsners but somewhat lighter in intensity due to the use of up to 30% flaked maize (corn) or rice used as an adjunct. Slight grainy, corn-like sweetness from the use of maize with substantial offsetting hop bitterness. Rice-based versions are crisper, drier, and often lack corn-like flavors. Medium to high hop flavor from noble hops (either late addition or first-wort hopped). Medium to high hop bitterness, which should not be coarse nor have a harsh aftertaste. No fruitiness or diacetyl. Should be smooth and well-lagered.
-    :mouthfeel: Medium body and rich, creamy mouthfeel. Medium to high carbonation levels.
-    :overall: A substantial Pilsner that can stand up to the classic European Pilsners, but exhibiting the native American grains and hops available to German brewers who initially brewed it in the USA. Refreshing, but with the underlying malt and hops that stand out when compared to other modern American light lagers. Maize lends a distinctive grainy sweetness. Rice contributes a crisper, more neutral character.
-    :comments: The classic American Pilsner was brewed both pre-Prohibition and post-Prohibition with some differences. OGs of 1.050-1.060 would have been appropriate for pre-Prohibition beers while gravities dropped to 1.044-1.048 after Prohibition. Corresponding IBUs dropped from a pre-Prohibition level of 30-40 to 25-30 after Prohibition.
-    :history: A version of Pilsner brewed in the USA by immigrant German brewers who brought the process and yeast with them when they settled in America. They worked with the ingredients that were native to America to create a unique version of the original Pilsner. This style died out after Prohibition but was resurrected as a home-brewed style by advocates of the hobby.
-    :ingredients: Six-row barley with 20% to 30% flaked maize to dilute the excessive protein levels. Native American hops such as Clusters, traditional continental noble hops, or modern noble crosses (Ultra, Liberty, Crystal) are also appropriate. Modern American hops such as Cascade are inappropriate. Water with a high mineral content can lead to an inappropriate coarseness in flavor and harshness in aftertaste.
-    :stats:
-      :og: 10.9 - 14.7 P
-      :bitterness: 25 - 40
-      :fg: 2.6 - 3.8 P
-      :color: 3 - 6
-      :abv: 4.5 - 6%
-    :examples: Occasional brewpub and microbrewery specials 

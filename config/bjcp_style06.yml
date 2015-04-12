@@ -1,0 +1,81 @@
+---
+ cream ale:
+    :category: 6
+    :category_name: Light Hybrid Beer
+    :subcategory: A
+    :subcategory_name: Cream Ale
+    :aroma: Faint malt notes. A sweet, corn-like aroma and low levels of DMS are commonly found. Hop aroma low to none. Any variety of hops may be used, but neither hops nor malt dominate. Faint esters may be present in some examples, but are not required. No diacetyl.
+    :appearance: Pale straw to moderate gold color, although usually on the pale side. Low to medium head with medium to high carbonation. Head retention may be no better than fair due to adjunct use. Brilliant, sparkling clarity.
+    :flavor: Low to medium-low hop bitterness. Low to moderate maltiness and sweetness, varying with gravity and attenuation. Usually well attenuated. Neither malt nor hops prevail in the taste. A low to moderate corny flavor from corn adjuncts is commonly found, as is some DMS. Finish can vary from somewhat dry to faintly sweet from the corn, malt, and sugar. Faint fruity esters are optional. No diacetyl.
+    :mouthfeel: Generally light and crisp, although body can reach medium. Smooth mouthfeel with medium to high attenuation; higher attenuation levels can lend a "thirst quenching" finish. High carbonation. Higher gravity examples may exhibit a slight alcohol warmth.
+    :overall: A clean, well-attenuated, flavorful American lawnmower beer.
+    :comments: Classic American (i.e., pre-prohibition) Cream Ales were slightly stronger, hoppier (including some dry hopping) and more bitter (25-30+ IBUs). These versions should be entered in the specialty/experimental category. Most commercial examples are in the 1.050-1.053 OG range, and bitterness rarely rises above 20 IBUs.
+    :history: An ale version of the American lager style. Produced by ale brewers to compete with lager brewers in the Northeast and Mid-Atlantic States. Originally known as sparkling or present use ales, lager strains were (and sometimes still are) used by some brewers, but were not historically mixed with ale strains. Many examples are krausened to achieve carbonation. Cold conditioning isn't traditional, although modern brewers sometimes use it.
+    :ingredients: American ingredients most commonly used. A grain bill of six-row malt, or a combination of six-row and North American two-row, is common. Adjuncts can include up to 20% flaked maize in the mash, and up to 20% glucose or other sugars in the boil. Soft water preferred. Any variety of hops can be used for bittering and finishing.
+    :stats:
+      :og: 10.5 - 13.6 P
+      :bitterness: 15 - 20 IBU
+      :fg: 1.5 - 3.1 P
+      :color: 2.5 - 5 SRM
+      :abv: 4.2- 5.6%
+    :examples: Genesee Cream Ale, Little Kings Cream Ale (Hudepohl), Anderson Valley Summer Solstice Cerveza Crema, Sleeman Cream Ale, New Glarus Spotted Cow, Wisconsin Brewing Whitetail Cream Ale
+
+  blonde ale:
+    :category_name: Light Hybrid Beer
+    :category: 6
+    :subcategory: B
+    :subcategory_name: Blonde Ale
+    :aroma: Light to moderate sweet malty aroma. Low to moderate fruitiness is optional, but acceptable. May have a low to medium hop aroma, and can reflect almost any hop variety. No diacetyl.
+    :appearance: Light yellow to deep gold in color. Clear to brilliant. Low to medium white head with fair to good retention.
+    :flavor: Initial soft malty sweetness, but optionally some light character malt flavor (e.g., bread, toast, biscuit, wheat) can also be present. Caramel flavors typically absent. Low to medium esters optional, but are commonly found in many examples. Light to moderate hop flavor (any variety), but shouldn't be overly aggressive. Low to medium bitterness, but the balance is normally towards the malt. Finishes medium-dry to somewhat sweet. No diacetyl.
+    :mouthfeel: Medium-light to medium body. Medium to high carbonation. Smooth without harsh bitterness or astringency.
+    :overall: Easy-drinking, approachable, malt-oriented American craft beer.
+    :comments: In addition to the more common American Blonde Ale, this category can also include modern English Summer Ales, American Kolsch-style beers, and less assertive American and English pale ales.
+    :history: Currently produced by many (American) microbreweries and brewpubs. Regional variations exist (many West Coast brewpub examples are more assertive, like pale ales) but in most areas this beer is designed as the entry-level craft beer.
+    :ingredients: Generally all malt, but can include up to 25% wheat malt and some sugar adjuncts. Any hop variety can be used. Clean American, lightly fruity English, or Kolsch yeast. May also be made with lager yeast, or cold-conditioned. Some versions may have honey, spices and/or fruit added, although if any of these ingredients are stronger than a background flavor they should be entered in specialty, spiced or fruit beer categories instead. Extract versions should only use the lightest malt extracts and avoid kettle caramelization.
+    :stats:
+      :og: 9.5 - 13.3 P
+      :bitterness: 15 - 28 IBU
+      :fg: 2.1 - 3.3 P
+      :color: 3 - 6 SRM
+      :abv: 3.8 - 5.5%
+    :examples: Pelican Kiwanda Cream Ale, Russian River Aud Blonde, Rogue Oregon Golden Ale, Widmer Blonde Ale, Fuller's Summer Ale, Hollywood Blonde, Redhook Blonde
+  kolsch:
+    :category: 6
+    :category_name: Light Hyprid Beer
+    :subcategory: C
+    :subcategory_name: Kolsch
+    :aroma: Very low to no Pils malt aroma. A pleasant, subtle fruit aroma from fermentation (apple, cherry or pear) is acceptable, but not always present. A low noble hop aroma is optional but not out of place (it is present only in a small minority of authentic versions). Some yeasts may give a slight winy or sulfury character (this characteristic is also optional, but not a fault).
+    :appearance: Very pale gold to light gold. Authentic versions are filtered to a brilliant clarity. Has a delicate white head that may not persist.
+    :flavor: Soft, rounded palate comprising of a delicate flavor balance between soft yet attenuated malt, an almost imperceptible fruity sweetness from fermentation, and a medium-low to medium bitterness with a delicate dryness and slight pucker in the finish (but no harsh aftertaste). The noble hop flavor is variable, and can range from low to moderately high; most are medium-low to medium. One or two examples (Dom being the most prominent) are noticeably malty-sweet up front. Some versions can have a slightly minerally or sulfury water or yeast character that accentuates the dryness and flavor balance. Some versions may have a slight wheat taste, although this is quite rare. Otherwise very clean with no diacetyl or fusels.
+    :mouthfeel: Smooth and crisp. Medium-light body, although a few versions may be medium. Medium to medium-high carbonation. Generally well-attenuated.
+    :overall: A clean, crisp, delicately balanced beer usually with very subtle fruit flavors and aromas. Subdued maltiness throughout leads to a pleasantly refreshing tang in the finish. To the untrained taster easily mistaken for a light lager, a somewhat subtle Pilsner, or perhaps a blonde ale.
+    :comments: Served in a tall, narrow 200ml glass called a "Stange." Each Koln brewery produces a beer of different character, and each interprets the Konvention slightly differently. Allow for a range of variation within the style when judging. Note that drier versions may seem hoppier or more bitter than the IBU specifications might suggest. Due to its delicate flavor profile, Kolsch tends to have a relatively short shelf-life; older examples can show some oxidation defects. Some Koln breweries (e.g., Dom, Hellers) are now producing young, unfiltered versions known as Wiess (which should not be entered in this category).
+    :history: Kolsch is an appellation protected by the Kolsch Konvention, and is restricted to the 20 or so breweries in and around Cologne (Koln). The Konvention simply defines the beer as a "light, highly attenuated, hop-accentuated, clear top-fermenting Vollbier."
+    :ingredients: German noble hops (Hallertau, Tettnang, Spalt or Hersbrucker). German Pils or pale malt. Attenuative, clean ale yeast. Up to 20% wheat may be used, but this is quite rare in authentic versions. Water can vary from extremely soft to moderately hard. Traditionally uses a step mash program, although good results can be obtained using a single rest at 149 F. Fermented at cool ale temperatures (59-65 F) and lagered for at least a month, although many Cologne brewers ferment at 70 F and lager for no more than two weeks.
+    :stats:
+      :og: 10.9 - 12.4 P
+      :bitterness: 20 - 30
+      :fg: 1.8 - 2.8 P
+      :color: 3.5 - 5.0 SRM
+      :abv: 4.4 - 5.2%
+    :examples: Available in Cologne only: PJ Fruh, Hellers, Malzmuhle, Paeffgen, Sion, Peters, Dom; import versions available in parts of North America: Reissdorf, Gaffel; Non-German versions: Eisenbahn Dourada, Goose Island Summertime, Alaska Summer Ale, Harpoon Summer Beer, New Holland Lucid, Saint Arnold Fancy Lawnmower, Capitol City Capitol Kolsch, Shiner Kolsch
+  american wheat or rye:
+    :category: 6
+    :category_name: Light Hybrid Beer
+    :subcategory: D
+    :subcategory_name: American Wheat or Rye Beer
+    :aroma: Low to moderate grainy wheat or rye character. Some malty sweetness is acceptable. Esters can be moderate to none, although should reflect American yeast strains. The clove and banana aromas common to German hefeweizens are inappropriate. Hop aroma may be low to moderate, and can have either a citrusy American or a spicy or floral noble hop character. Slight crisp sharpness is optional. No diacetyl.
+    :appearance: Usually pale yellow to gold. Clarity may range from brilliant to hazy with yeast approximating the German hefeweizen style of beer. Big, long-lasting white head.
+    :flavor: Light to moderately strong grainy wheat or rye flavor, which can linger into the finish. Rye versions are richer and spicier than wheat. May have a moderate malty sweetness or finish quite dry. Low to moderate hop bitterness, which sometimes lasts into the finish. Low to moderate hop flavor (citrusy American or spicy/floral noble). Esters can be moderate to none, but should not take on a German Weizen character (banana). No clove phenols, although a light spiciness from wheat or rye is acceptable. May have a slightly crisp or sharp finish. No diacetyl.
+    :mouthfeel: Medium-light to medium body. Medium-high to high carbonation. May have a light alcohol warmth in stronger examples.
+    :overall: Refreshing wheat or rye beers that can display more hop character and less yeast character than their German cousins.
+    :comments: Different variations exist, from an easy-drinking fairly sweet beer to a dry, aggressively hopped beer with a strong wheat or rye flavor. Dark versions approximating dunkelweizens (with darker, richer malt flavors in addition to the color) should be entered in the Specialty Beer category. THE BREWER SHOULD SPECIFY IF RYE IS USED; IF NO DOMINANT GRAIN IS SPECIFIED, WHEAT WILL BE ASSUMED.
+    :ingredients: Clean American ale yeast, but also can be made as a lager. Large proportion of wheat malt (often 50% or more, but this isn't a legal requirement as in Germany). American or noble hops. American Rye Beers can follow the same general guidelines, substituting rye for some or all of the wheat. Other base styles (e.g., IPA, stout) with a noticeable rye character should be entered in the Specialty Beer category (23).
+    :stats:
+      :og: 10.0 - 13.6 P
+      :bitterness: 15 - 30 IBU
+      :fg: 2.1 - 3.3 P
+      :color: 3 - 6 SRM
+      :abv: 4 - 5.5%
+    :examples: Bell's Oberon, Harpoon UFO Hefeweizen, Three Floyds Gumballhead, Pyramid Hefe-Weizen, Widmer Hefeweizen, Sierra Nevada Unfiltered Wheat Beer, Anchor Summer Beer, Redhook Sunrye, Real Ale Full Moon Pale Rye 
