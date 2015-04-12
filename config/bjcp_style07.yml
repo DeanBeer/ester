@@ -1,5 +1,8 @@
 ---
- 7A. Northern German Altbier
+  northern german altbier:
+    :category: 7
+    :subcategory: A
+    :subcategory_name: Northern German Altbier
     :category_name: Amber Hybrid Beer
     :aroma: Subtle malty, sometimes grainy aroma. Low to no noble hop aroma. Clean, lager character with very restrained ester profile. No diacetyl.
     :appearance: Light copper to light brown color; very clear from extended cold conditioning. Low to moderate off-white to white head with good retention.
@@ -8,13 +11,18 @@
     :overall: A very clean and relatively bitter beer, balanced by some malt character. Generally darker, sometimes more caramelly, and usually sweeter and less bitter than D?sseldorf Altbier.
     :comments: Most Altbiers produced outside of D?sseldorf are of the Northern German style. Most are simply moderately bitter brown lagers. Ironically "alt" refers to the old style of brewing (i.e., making ales), which makes the term "Altbier" somewhat inaccurate and inappropriate. Those that are made as ales are fermented at cool ale temperatures and lagered at cold temperatures (as with D?sseldorf Alt).
     :ingredients: Typically made with a Pils base and colored with roasted malt or dark crystal. May include small amounts of Munich or Vienna malt. Noble hops. Usually made with an attenuative lager yeast.
-    :stats:      :og: 1.046 - 1.054
-      :bitterness: 25 - 40     :fg: 1.010 - 1.015
-      :color: 13 - 19    ABV: 4.5 - 5.2%
-
+    :stats:
+      :og: 11.4 - 13.3 P
+      :bitterness: 25 - 40 IBU
+      :fg: 2.6 - 3.8 P
+      :color: 13 - 19 SRM
+      :abv: 4.5 - 5.2%
     :examples: DAB Traditional, Hannen Alt, Schwelmer Alt, Grolsch Amber, Alaskan Amber, Long Trail Ale, Otter Creek Copper Ale, Schmaltz' Alt
-Back to top
-7B. California Common Beer
+  california common:
+    :category: 7
+    :category_name: Amber Hybrid Beer
+    :subcategory: B
+    :subcategory_name: California Common Beer
     :aroma: Typically showcases the signature Northern Brewer hops (with woody, rustic or minty qualities) in moderate to high strength. Light fruitiness acceptable. Low to moderate caramel and/or toasty malt aromatics support the hops. No diacetyl.
     :appearance: Medium amber to light copper color. Generally clear. Moderate off-white head with good retention.
     :flavor: Moderately malty with a pronounced hop bitterness. The malt character is usually toasty (not roasted) and caramelly. Low to moderately high hop flavor, usually showing Northern Brewer qualities (woody, rustic, minty). Finish fairly dry and crisp, with a lingering hop bitterness and a firm, grainy malt flavor. Light fruity esters are acceptable, but otherwise clean. No diacetyl.
@@ -23,13 +31,18 @@ Back to top
     :comments: This style is narrowly defined around the prototypical Anchor Steam example. Superficially similar to an American pale or amber ale, yet differs in that the hop flavor/aroma is woody/minty rather than citrusy, malt flavors are toasty and caramelly, the hopping is always assertive, and a warm-fermented lager yeast is used.
     :history: American West Coast original. Large shallow open fermenters (coolships) were traditionally used to compensate for the absence of refrigeration and to take advantage of the cool ambient temperatures in the San Francisco Bay area. Fermented with a lager yeast, but one that was selected to thrive at the cool end of normal ale fermentation temperatures.
     :ingredients: Pale ale malt, American hops (usually Northern Brewer, rather than citrusy varieties), small amounts of toasted malt and/or crystal malts. Lager yeast, however some strains (often with the mention of "California" in the name) work better than others at the warmer fermentation temperatures (55 to 60?F) used. Note that some German yeast strains produce inappropriate sulfury character. Water should have relatively low sulfate and low to moderate carbonate levels.
-    :stats:      :og: 1.048 - 1.054
-      :bitterness: 30 - 45     :fg: 1.011 - 1.014
-      :color: 10 - 14    ABV: 4.5 - 5.5%
-
+    :stats:
+      :og: 11.9 - 13.3 P
+      :bitterness: 30 - 45 IBU
+      :fg: 2.8 - 3.6 P
+      :color: 10 - 14 SRM
+      :abv: 4.5 - 5.5%
     :examples: Anchor Steam, Southampton Steem Beer, Flying Dog Old Scratch Amber Lager
-Back to top
-7C. D?sseldorf Altbier
+  dusseldorf altbier:
+    :category: 7
+    :subcategory: C
+    :subcategory_name: Dusseldorf Altbier
+    :category_name: Amber Hybrid Beer
     :aroma: Clean yet robust and complex aroma of rich malt, noble hops and restrained fruity esters. The malt character reflects German base malt varieties. The hop aroma may vary from moderate to very low, and can have a peppery, floral or perfumy character associated with noble hops. No diacetyl.
     :appearance: Light amber to orange-bronze to deep copper color, yet stopping short of brown. Brilliant clarity (may be filtered). Thick, creamy, long-lasting off-white head.
     :flavor: Assertive hop bitterness well balanced by a sturdy yet clean and crisp malt character. The malt presence is moderated by moderately-high to high attenuation, but considerable rich and complex malt flavors remain. Some fruity esters may survive the lagering period. A long-lasting, medium-dry to dry, bittersweet or nutty finish reflects both the hop bitterness and malt complexity. Noble hop flavor can be moderate to low. No roasted malt flavors or harshness. No diacetyl. Some yeast strains may impart a slight sulfury character. A light minerally character is also sometimes present in the finish, but is not required. The apparent bitterness level is sometimes masked by the high malt character; the bitterness can seem as low as moderate if the finish is not very dry.
@@ -38,8 +51,10 @@ Back to top
     :comments: A bitter beer balanced by a pronounced malt richness. Fermented at cool ale temperature (60-65?F), and lagered at cold temperatures to produce a cleaner, smoother palate than is typical for most ales. Common variants include Sticke ("secret") alt, which is slightly stronger, darker, richer and more complex than typical alts. Bitterness rises up to 60 IBUs and is usually dry hopped and lagered for a longer time. M?nster alt is typically lower in gravity and alcohol, sour, lighter in color (golden), and can contain a significant portion of wheat. Both Sticke alt and M?nster alt should be entered in the specialty category.
     :history: The traditional style of beer from D?sseldorf. "Alt" refers to the "old" style of brewing (i.e., making top-fermented ales) that was common before lager brewing became popular. Predates the isolation of bottom-fermenting yeast strains, though it approximates many characteristics of lager beers. The best examples can be found in brewpubs in the Altstadt ("old town") section of D?sseldorf.
     :ingredients: Grists vary, but usually consist of German base malts (usually Pils, sometimes Munich) with small amounts of crystal, chocolate, and/or black malts used to adjust color. Occasionally will include some wheat. Spalt hops are traditional, but other noble hops can also be used. Moderately carbonate water. Clean, highly attenuative ale yeast. A step mash or decoction mash program is traditional.
-    :stats:      :og: 1.046 - 1.054
-      :bitterness: 35 - 50     :fg: 1.010 - 1.015
-      :color: 11 - 17    ABV: 4.5 - 5.2%
-
+    :stats:
+      :og: 11.4 - 13.3 P
+      :bitterness: 35 - 50 IBU
+      :fg: 2.6 - 3.8 P
+      :color: 11 - 17 SRM
+      :abv: 4.5 - 5.2%
     :examples: Altstadt brewpubs: Zum Uerige, Im F?chschen, Schumacher, Zum Schl?ssel; other examples: Diebels Alt, Schl?sser Alt, Frankenheim Alt 

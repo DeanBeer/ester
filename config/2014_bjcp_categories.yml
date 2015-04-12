@@ -1,0 +1,52 @@
+---
+- :name: Standard American Beer
+  :description: This category describes everyday American beers that have a wide public appeal. Containing both ales and lagers, the beers of this category are not typically complex, and have smooth, accessible flavors. The ales tend to have lager like qualities, or are designed to appeal to mass market lager drinkers as cross over beers. Mass market beers with a more international appeal or origin are described in the International Lager category.
+- :name: International Lager
+  :description: International lagers are the premium mass-market lagers produced in most countries in the world. Whether developed from American or European styles, they all tend to have a fairly uniform char acter and are heavily marketed. Loosely derived from original Pilsner-type lagers, with colored variations having additional malt flavors while retaining a broad appeal to most palates. In many countries, the styles will be referred to by their local country names. The use of the term "international" doesn't mean that any beers are actually labeled as such; it is more of a categorization of similar beers produced worldwide.
+- :name: Czech Lager
+- :name: Pale Malty European Lager
+- :name: Pale Bitter European Beer
+- :name: Amber, Malty European Lager
+- :name: Amber, Hoppy European Beer
+- :name: Dark European Lager
+- :name: Strong European Lager
+- :name: German Wheat Beer
+- :name: English Bitters
+  :description: The family of English bitters grew out of English pale ales as a draught product in the late 1800s. The use of crystal malts in bitters became more widespread after WWI. Traditionally served very fresh under no pressure (gravity or hand pump only) at cellar temperatures (i.e., "real ale"). Most bottled or kegged versions of UK-produced bitters are often higher-alcohol and more highly carbonated versions of cask products produced for export, and have a different character and balance than their draught counterparts in Britain (often being sweeter and less hoppy than the cask versions). These guidelines reflect the "real ale" version of the style, not the export formulations of commercial products.\n Several regional variations of bitter exist, ranging from darker, sweeter versions served with nearly no head to brighter, hoppier, paler versions with large foam stands, and everything in between. 
+- :name: Pale English Beer
+- :name: Brown English Beer
+  :description: While Dark Mild, Brown Ale, and English Porter may have long and storied histories, these guidelines describe the modern versions. They are grouped together since they often have similar flavors and balance, not because of any implied common ancestry.
+- :name: Scottish Ale
+  :descscription: The original meaning of 'schilling' (/-) ales have been described incorrectly for years. A single style of beer was never designated as a 60/-, 70/- or 80/-. The schillings only referring to the cost of the barrel of beer. Meaning there were 54/- Stouts and 86/- IPAs and so on. The Scottish Ales in question were termed Light, Heavy and Export which cover the spectrum of costs from around 60/- to 90/- and simply dark, malt-focused ales. The larger 120/- ales fall outside of this purview as well as the strongest Scotch ales (aka Wee Heavy).The Scottish Light, Heavy and Export guidelines read exactly the same for each style of beers. As the gravity increases, so does the character of the beers in question.
+- :name: Irish Beer
+- :name: Dark British Beer
+- :name: Strong British Ale
+- :name: Pale American Ale
+- :name: Dark American Beer
+- :name: American Porter and Stout
+  :description: These beers all evolved from their English namesakes to be wholly transformed by American craft brewers. Generally, these styles are bigger, stronger, and more hop-centric than their Anglo cousins. These styles are grouped together due to a similar shared history and flavor profile.
+- :name: IPA
+  :description: The IPA category is for modern American IPAs and their derivatives. This does not imply that English IPAs aren't proper IPAs or that there isn't a relationship between them. This is simply a method of grouping similar styles for competition purposes.  English IPAs are grouped with other English beers, and the stronger Double IPA is grouped with stronger American beers. The term "IPA" is intentionally not spelled out as "India Pale Ale" since none of these beers historically went to India, and many aren't pale. However, the term IPA has come to be a balance-defined style in modern craft beer.
+- :name: Strong American Ale
+- :name: European Sour Ale
+- :name: Belgian Ale
+- :name: Strong Belgian Ale
+- :name: Trappist Ale
+- :name: Historical Beer
+- :name: American Wild Ale
+  :description: The name "American Wild Ale" is in common use by craft brewers and homebrewers. However, the word "Wild" does not imply that these beers are necessarily spontaneously-fermented; rather, it indicates that they are influenced by microbes other than traditional brewer's yeast (Saccharomyces cerevisiae, or S. pastorianus). As a result these beers exhibit funky and/or sour profiles. This category is for a wide range of beers that do not fit the traditional European sour or wild styles. All of the styles in this category are essentially specialty beers; many creative interpretations are possible, and the styles are defined only by the use of specific fermentation profiles and ingredients. As specialty styles, the description provided by the entrant is of the utmost importance to the judge; if the judge does not understand what you were trying to do, they are unlikely to guess correctly.\nThroughout this category, "Brett" is used as an abbreviation for Brettanomyces. This is the term most craft brewers and homebrewers will use in conversation, if not in formal communications.
+- :name: Fruit Beer
+- :name: Spiced Beer
+  :description: We use the common or culinary definitions of spices, herbs, and vegetables, not botanical or scientific ones. In general, spices are the dried seeds, seed pods, fruit, roots, bark, etc. of plants used for flavoring food. Herbs are leafy plants or parts of plants (leaves, flowers, petals, stalks) used for flavoring foods. Vegetables are savory or less sweet edible plant products, used primarily for cooking or sometimes eating raw. Vegetables can include some botanical fruit. This category explicitly includes all culinary spices, herbs, and vegetables, as well as nuts (anything with 'nut' in the name, including coconut), chile peppers, coffee, chocolate, spruce tips, rose hips, hibiscus, fruit peels/zest, rhubarb, and the like. It does not include culinary fruit or grains.  Flavorful fermentable sugars and syrups (agave nectar, maple syrup, molasses, sorghum, treacle, honey, etc.) can be included only in combination with other allowable ingredients. A combination of any allowable ingredients may also be entered. See Category 29 for a definition and examples of fruit.
+- :name: Alternative Fermentables Beer
+  :description: An Alternative Fermentables Beer is a standard beer (Classic Style or not) with additional or non-standard grains (e.g., rye, oats, buckwheat, etc.) added.
+- :name: Smoked Beer
+- :name: Wood Beer
+- :name: Specialty Beer
+- :name: Traditional Mead
+- :name: Fruit Mead
+  :description: A mead made with fruit is called a Melomel, although some melomels also have other names (cyser, pyment).We are introducing category names for certain types of melomels based on the variety of fruit used; these are more entry categories than actual styles. We selected different names for the category and subcategories to avoid the confusion of using the same names in different ways.
+- :name: Spiced Mead
+- :name: Specialty Mead
+- :name: Standard Cider & Perry
+- :name: Specialty Cider & Perry

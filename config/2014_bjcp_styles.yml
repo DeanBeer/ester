@@ -1,0 +1,1014 @@
+---
+  american light lager:
+    :category: 1
+    :category_name: Standard American Beer
+    :category_description: This category describes everyday American beers that have a wide public appeal. Containing both ales and lagers, the beers of this category are not typically complex, and have smooth, accessible flavors. The ales tend to have lager like qualities, or are designed to appeal to mass market lager drinkers as cross over beers. Mass market beers with a more international appeal or origin are described in the International Lager category.
+1A. American Light Lager
+    :aroma: Low to no malt aroma, although it can be perceived as grainy, sweet or corn like if present. Hop aroma slight to none, with a spicy or floral hop character if present. While a clean fermentation character is desirable, a light amount of yeast c haracter (particularly a light apple fruitiness) is not a fault. Light DMS is not a fault.
+    :appearance: Very pale straw to pale yellow color. White, frothy head seldom persists. Very clear.
+    :flavor: Relatively neutral palate with a crisp and dry finish and a low to very low grainy or corn like flavor that might be perceived as sweetness due to the low bitterness. Hop flavor ranges from none to low levels, and can have a floral, spicy, or herbal quality (although rarely strong enough to detect). Low to very low hop bitterness. Balance may vary from slightly malty to slightly bitter, but is relatively close to even. High levels of carbonation may accentuate the crispness of the dry finish. Clean lager fermentation character.
+    :mouthfeel: Very light (sometimes watery) body. Very highly carbonated with slight carbonic bite on the tongue.
+    :overall: Highly carbonated, very light bodied, nearly flavorless lager designed to be consumed very cold. Very refreshing and thirst quenching.
+    :comments: Designed to appeal to the broadest range of the general public as possible.  Strong flavors are a fault.
+    :history: Coors briefly made a light lager in the early 1940s. Modern versions were first produced by Rheingold in 1967 to appeal to diet conscious drinkers, but only became popular starting in 1973 after Miller Brewing acquired the recipe and marketed the beer heavily to sports fans with the "tastes great, less filling" campaign. Beers of this genre became the largest sellers in the United States in the 1990s.
+    :ingredients: Two or six row barley with high percentage (up to 40%) of rice or corn as adjuncts. Additional enzymes can further lighten the body and lower carbohydrates.
+    :comparison: A lighter bodied, lower alcohol, lower calorie version of an American Lager. Less hop character and bitterness than a Leichtbier. 
+    :stats:
+      :og: 1.028 - 1.040
+      :bitterness: 8 - 12 IBU
+      :fg: 0.998 - 1.008
+      :color: 2 - 3 SRM
+      :abv: 2.8 - 4.2%
+    :examples: Miller Lite, Bud Light, Coors Light, Old Milwaukee Light, Keystone Light, Michelob Light
+  american lager:
+    :category: 1
+    :category_name: Standard American Beer
+    :category_description: This category describes everyday American beers that have a wide public appeal. Containing both ales and lagers, the beers of this category are not typically complex, and have smooth, accessible flavors. The ales tend to have lager like qualities, or are designed to appeal to mass market lager drinkers as cross over beers. Mass market beers with a more international appeal or origin are described in the International Lager category.
+    :subcategory: B
+    :subcategory_name:  American Lager
+    :aroma: Low to no malt aroma, although it can be perceived as grainy, sweet or corn like if present. Hop aroma may range from none to a light, spicy or floral hop presence. While a clean fermentation character is desirable, a light amount of yeast character (particularly a light apple character) is not a fault. Light DMS is also not a fault.
+    :appearance: Very pale straw to medium yellow color. White, frothy head seldom persists. Very clear.
+    :flavor: Relatively neutral palate with a crisp and dry finish and a moderately low to low grainy or corn like flavor that might be perceived as sweetness due to the low bitterness. Hop flavor ranges from none to moderately low levels, and can have a floral, spicy, or herbal quality (although often not strong enough to distinguish). Hop bitterness at low to medium low level. Balance may vary from slightly malty to slightly bitter, but is relatively close to even. High levels of carbonation may accentuate the crispness of the dry finish. Clean lager fermentation character.
+    :mouthfeel: Low to medium low body. Very highly carbonated with slight carbonic bite on the tongue.
+    :overall: A very pale, highly carbonated, light bodied, well attenuated lager with a very neutral flavor profile and low bitterness. Served very cold, it can be a very refreshing and thirst quenching drink.
+    :comments: Strong flavors are a fault. Often what non-craft beer drinkers expect to be served if they order beer in the United States. May be marketed as Pilsner beers outside of Europe, but should not be confused with traditional examples.
+    :history: Although German immigrants had brewed traditional Pilsner inspired lager beer in the United States since the mid-late 1800s, the modern American lager style was heavily influenced by Prohibition and World War II. Surviving breweries consolidated, expanded distribution, and heavily promoted a beer style that was appealing to a broad range of the population.  Became the dominant beer style for many decades, and spawning many international rivals who would develop similarly bland products for the mass market supported by heavy advertising.
+    :ingredients: Two or six row barley with high percentage (up to 40%) of rice or corn as adjuncts.
+    :comparison: Stronger, more flavor and body than a Light American Lager. Less bitterness and flavor than an International Lager. Significantly less flavor, hops, and bitterness than traditional European Pilsners.
+    :stats:
+      :og: 1.040 - 1.050
+      :bitterness: 8 - 18 IBU
+      :fg: 1.004 - 1.010        
+      :color: 2 - 4 SRM
+      :abv: 4.2 - 5.3%
+    :examples: Pabst Blue Ribbon, Miller High Life, Budweiser, Grain Belt Premium Lager, Coors Original, Special Export
+  cream ale:
+    :category: 1
+    :category_name: Standard American Beer
+    :category_description: This category describes everyday American beers that have a wide public appeal. Containing both ales and lagers, the beers of this category are not typically complex, and have smooth, accessible flavors. The ales tend to have lager like qualities, or are designed to appeal to mass market lager drinkers as cross over beers. Mass market beers with a more international appeal or origin are described in the International Lager category.
+    :subcategory: C
+    :subcategory_name: Cream Ale
+    :aroma: Faint malt notes, with a sweet, corn-like aroma. Low levels of DMS are allowable, but are not required. Hop aroma low to none, and can be of any variety although floral, spicy, or herbal notes are most common. Overall, a subtle aroma with neither hops nor malt dominating. Faint esters may be present in some examples, but are not required.  
+    :appearance: Pale straw to moderate gold color, although usually on the pale side. Low to medium head with medium to high carbonation. Fair head retention. Brilliant, sparkling clarity.
+    :flavor: Low to medium low hop bitterness. Low to moderate maltiness and sweetness, varying with gravity and attenuation.  Usually well attenuated. Neither malt nor hops prevail in the palate. A low to moderate corny flavor is commonly found, as is light DMS (optional). Finish can vary from somewhat dry to faintly sweet. Faint fruity esters are optional. Low to medium-low hop flavor (any variety, but typically floral, spicy, or herbal).
+    :mouthfeel: Generally light and crisp, although body can reach medium. Smooth mouthfeel with medium to high attenuation; higher attenuation levels can lend a "thirst quenching" quality. High carbonation. 
+    :overall: A clean, well- attenuated, flavorful American lawnmower beer. Easily drinkable and refreshing, with more character than typical American lagers.
+    :comments: Pre-prohibition Cream Ales were slightly stronger, hoppier (including some dry hopping) and more bitter (25-30+ IBUs). These versions should be entered in the historical category. Most commercial examples are in the 12.4 - 13.1 OG range, and bitterness rarely rises above 20 IBUs.
+    :history: A sparkling or present use ale that existed in the 1800s and survived prohibition. An ale version of the American lager style. Produced by ale brewers to compete with lager brewers in Canada and the Northeast, Mid-Atlantic, and Midwest states.  Originally known as sparkling or present use ales, lager strains were (and sometimes still are) used by some brewers, but were not historically mixed with ale strains. Many examples are kr?usened to achieve carbonation. Cold conditioning isn't traditional, although modern brewers sometimes use it.
+    :ingredients: American ingredients most commonly used. A grain bill of six-row malt, or a combination of six-row and North American two-row, is common. Adjuncts can include up to 20% flaked maize in the mash, and up to 20% glucose or other sugars in the boil. Soft water preferred. Any variety of hop s can be used for bittering and finishing.
+    :comparison: Similar to a Standard American Lager, but with more character.
+    :stats:
+      :og: 1.042 - 1.055 
+      :bitterness: 15 - 20 IBU
+      :fg: 1.006 - 1.012
+      :color: 2.5 - 5.0 SRM
+      :abv: 4.2 - 5.6%
+    :examples: Genesee Cream Ale, Little Kings Cream Ale, Sleeman Cream Ale, Liebotschaner Cream Ale, New Glarus Spotted Cow, Old Style
+  american wheat beer:
+    :category: 1
+    :category_name: Standard American Beer
+    :category_description: This category describes everyday American beers that have a wide public appeal. Containing both ales and lagers, the beers of this category are not typically complex, and have smooth, accessible flavors. The ales tend to have lager like qualities, or are designed to appeal to mass market lager drinkers as cross over beers. Mass market beers with a more international appeal or origin are described in the International Lager category.
+    :subcategory: D
+    :subcategory_name: American Wheat Beer
+    :aroma: Low to moderate grainy, bready, or doughy wheat character. A light to moderate malty sweetness is acceptable. Esters can be moderate to none, although should reflect American yeast strains; banana is inappropriate. Hop aroma may be low to moderate, and can have a citrusy, spicy, floral, or fruity character.
+    :appearance: Usually pale yellow to gold. Clarity may range from brilliant to hazy with yeast approximating the German weissbier style of beer. Big, long lasting white head.
+    :flavor: Light to moderately strong bready, doughy, or grainy wheat flavor, which can linger into the finish. May have a moderate malty sweetness or finish quite dry. Low to moderate hop bitterness, which sometimes lasts into the finish. Balance is usually even, but may be slightly bitter. Low to moderate hop flavor (citrusy, spicy, floral, or fruity). Esters can be moderate to none, but should not include banana. No clove phenols. May have a slightly crisp finish.
+    :mouthfeel: Medium-light to medium body. Medium-high to high carbonation. Slight creaminess is optional; wheat beers sometimes have a soft, 'fluffy' impression.
+    :overall: Refreshing wheat beers that can display more hop character and less yeast character than their German cousins. A clean fermentation character allows bready, doughy, or grainy wheat flavors to be complemented by hop flavor and bitterness rather than yeast qualities.
+    :comments: Different variations exist, from an easy-drinking fairly sweet beer to a dry, aggressively hopped beer with a strong wheat flavor. American rye beers should be entered in the Alternative fermentables specialty category.
+    :history: An American craft beer adaptation of the German weissbier style using a cleaner yeast and more hops, first widely popularized by Widmer in the mid-1980s.
+    :ingredients: Clean American ale or lager yeast. Large proportion of wheat malt (often 30-50%, which is lower than is typical in Germany). American, German, or New World hops are typical.
+    :comparison: More hop character and less yeast character than German weissbier. Never with the banana and clove character of German weissbier. Generally can have the sa me range and balance as Blonde Ales, but with a wheat character as the primary malt flavor.
+    :stats:
+      :og: 1.040 - 1.055
+      :bitterness: 15 - 30 IBU
+      :fg: 1.008 - 1.013
+      :color: 3 - 6 SRM
+      :abv: 4.0 - 5.5%
+    :examples: Bell's Oberon, Goose Island 312 Urban Wheat Ale, Widmer Hefeweizen, Boulevard Wheat Beer
+  international pale lager:
+2. International Lager
+    :category_description: International lagers are the premium mass-market lagers produced in most countries in the world. Whether developed from American or European styles, they all tend to have a fairly uniform char acter and are heavily marketed. Loosely derived from original Pilsner-type lagers, with colored variations having additional malt flavors while retaining a broad appeal to most palates. In many countries, the styles will be referred to by their local country names. The use of the term "international" doesn't mean that any beers are actually labeled as such; it is more of a categorization of similar beers produced worldwide.
+2A. International Pale Lager
+    :aroma: 
+Low to medium
+-
+low malt aroma, which can be grain
+y
+-
+malty or slightly corny
+-
+sweet. Hop aroma may range from very 
+low to a medium, spicy or floral hop presence. While a clean fermentation profile is generally most desirable, low levels of 
+yeast 
+character (such as a light apple fruitiness) are not a fault. 
+Light amounts of DMS are not a fault.
+    :appearance: 
+Pale straw to gold color. White, frothy head may not be long lasting. Very clear.
+    :flavor: 
+Low to moderate levels of grainy
+-
+malt flavor, with a crisp, dry, well
+-
+attenuated finish. The grain character can be 
+somewhat neutral, or show a light bready
+-
+crackery quality or a touch of corny or malty sweetness. Hop flavor ranges from none 
+to medium levels, and often showing a floral, spicy, or herbal character if detected. Hop bitterness at medium
+-
+low to medium 
+level
+. Balance may vary from slightly malty to slightly bitter, but is relatively close to even. High levels of carbonation and 
+sometimes minerals in the water may accentuate the crispness of the dry finish. Neutral, drying aftertaste with light malt an
+d 
+someti
+mes hop flavors. Light amounts of DMS are not a fault.
+    :mouthfeel: 
+Light to medium body. Moderately
+-
+high to highly carbonated. Can have a slight carbonic bite on the tongue.
+    :overall:
+A highly
+-
+attenuated pale lager without strong flavors, typicall
+y well
+-
+balanced and highly carbonated. 
+Served cold, it is refreshing and thirst
+-
+quenching.
+    :comments: 
+International lagers tend to have fewer adjuncts than standard American lagers. They may be all
+-
+malt, although 
+strong flavors are still a fault. A broad ca
+tegory of international mass
+-
+market lagers ranging from up
+-
+scale American lagers to the 
+typical "import" or "green bottle" international beers found in America and many export markets. Often confusingly labeled as
+a 
+"Pilsner." Any skunkiness in commercial 
+beers from being lightstruck in a green bottle is a mishandling fault, not a characteristic 
+of the style.
+    :history:
+In the United States, developed as a premium version of the standard American lager, with a similar history. Outside the 
+United States, devel
+oped either as an imitation of American style lagers, or as a more accessible (and often drier and less bitter) 
+version of a Pilsner
+-
+type beer. Often heavily marketed and exported by large industrial or multi
+-
+national breweries.
+    :ingredients:
+Two
+-
+or six
+-
+row barley. May use rice, corn, or sugar as adjuncts, or may be all malt.
+    :comparison: 
+Generally more bitter and filling than American lager. Less hoppy and bitter than a German Pils. Less body, 
+malt flavor, and hop character than a Czech
+Pilsner.
+    :stats:
+      :og:
+1.042 
+-
+1.050
+      :bitterness:
+18 
+-
+25
+      :fg:
+1.008 
+-
+1.012        
+      :color:
+2 
+-
+6
+      :abv:
+4.6 
+-
+6.0%
+    :examples:
+Heineken, Corona Extra, Asahi Super Dry, Full Sail Session Premium Lager, Birra Moretti, Red Stripe, 
+Singha, Devils Backbo
+ne Gold Leaf Lager
+2B. International Amber Lager
+    :aroma:
+Low to moderate malt aroma which can be grainy, with a very low to moderate caramel
+-
+sweet to toasty
+-
+malty aroma. 
+Hop aroma can range from low to none with a mildly floral or spicy character. Clean la
+ger profile. A slight cooked corn aroma is 
+acceptable.
+    :appearance:
+Golden
+-
+amber to reddish
+-
+copper color. Bright clarity. White to off
+-
+white foam stand which may not last.
+    :flavor:
+Low to moderate malt profile which can vary from dry to grainy
+-
+sweet. Low to 
+moderate levels of caramel and toasty
+-
+bready notes can be evident. Low to medium
+-
+low corny sweetness is optional, but not a fault. Hop bitterness low to moderate, 
+and hop flavor low to moderate, with a spicy, herbal, or floral character. The balance can be
+fairly malty to nearly even, with the 
+bitterness becoming more noticeable but not objectionable. The bitterness level can increase if the malt character increases 
+to 
+match. Clean fermentation profile. Finish is moderately dry with a moderately malty after
+taste.
+    :mouthfeel:
+Light to medium body. Medium to high carbonation. Smooth; some examples can be creamy.
+    :overall:
+A well
+-
+attenuated malty amber lager with an interesting caramel or toast quality and restrained bitterness. 
+Usually fairly well
+-
+att
+enuated, and can have an adjunct quality to it. Smooth, easily
+-
+drinkable lager character.
+    :comments:
+A wide spectrum of mass
+-
+market Amber lagers developed either independently in various countries, or describing 
+rather generic amber beers that may have had 
+more historical relevance but who eventually changed into an indistinguishable 
+product in modern times.
+    :history:
+Varies by country, but generally represents an adaptation of the mass
+-
+market International Lager or an evolution of 
+indigenous styles into a mo
+re generic product.
+    :ingredients:
+Two
+-
+row or six
+-
+row base malt. Color malts such as victory, amber, etc. Caramel malt adjuncts. 
+European or American hops or a combination of both.
+    :comparison:
+Less well
+-
+developed malt flavor than a Vienn
+a lager, often with an adjunct taste.
+    :stats:
+      :og:
+1.042 
+-
+1.055
+      :bitterness:
+8 
+-
+25
+      :fg:
+1.008 
+-
+1.014
+      :color:
+7 
+-
+14
+      :abv:
+4.6 
+-
+6.0%
+    :examples: 
+Schell's Oktoberfest, Capital Winter Sk?l, Dos Equis Amber, Yuengling Lager, Brooklyn Lager
+2C. Inter
+national Dark Lager
+    :aroma:
+Little to no malt aroma. Medium
+-
+low to no roast and caramel malt aroma. Hop aroma may range from none to light 
+spicy or floral hop presence. Can have low levels of yeast character (green apples, DMS, or fruitiness).
+    :appearance:
+D
+eep amber to dark brown with bright clarity and ruby highlights. Foam stand may not be long lasting, and is 
+usually light tan in color.
+    :flavor:
+Low to medium malty sweetness. with medium
+-
+low to no caramel and/or roasted malt flavors (and may include hints 
+of 
+coffee, molasses or cocoa). Hop flavor ranges from none to low levels, and is typically floral, spicy, or herbal. Low to medi
+um 
+hop bitterness. May have a very light fruitiness. Moderately crisp finish. The balance is typically somewhat malty. Burnt or 
+moderately strong roasted malt flavors are a defect. 
+    :mouthfeel:
+Light to medium
+-
+light body. Smooth with a light creaminess. High carbonation.
+    :overall:
+A darker and somewhat sweeter version of international pale lager with a little more body and
+flavor, but 
+equally restrained in bitterness. The low bitterness leaves the malt as the primary flavor element, and the low hop levels pr
+ovide 
+very little in the way of balance.  
+    :comments:
+A broad range of international lagers that are darker than pale, 
+and not assertively bitter and/or roasted. 
+    :history:
+Darker versions of International Pale Lagers often created by the same large, industrial breweries and meant to appeal to 
+a broad audience. Often either a colored or sweetened adaptation of the standard 
+pale industrial lager, or a more broadly 
+accessible (and inexpensive) version of more traditional dark lagers.
+    :ingredients:
+Two
+-
+or six
+-
+row barley, corn, rice, or sugars as adjuncts. Light use of caramel and darker malts. 
+Commercial versions
+may use coloring agents.
+    :comparison:
+Less flavor and richness than Munich Dunkel, Schwarzbier, or other dark lagers. Frequently uses adjuncts, as 
+is typical of other International Lagers.
+    :stats:
+      :og:
+1.044 
+-
+1.056
+      :bitterness:
+8 
+-
+20
+      :fg:
+1.008 
+-
+1.012
+      :color:
+14 
+-
+22
+      :abv:
+4.2 
+-
+6%
+    :examples:
+Dixie Blackened Voodoo, Shiner Bock, San Miguel Dark, Baltika #4, Saint Pauli Girl Dark
+3. Czech Lager
+3A. Czech Pale Lager
+    :aroma:
+Light to moderate bready
+-
+rich malt combined with light to moderate s
+picy or herbal hop bouquet; the balance between 
+the two may vary. Faint hint of caramel is acceptable. No to moderate diacetyl but never intrusive. Light, fruity hop
+-
+derived 
+esters are acceptable, but need not be present. No sulfur.
+    :appearance:
+Light gold 
+to deep gold color. Brilliant to very clear, with a creamy, long
+-
+lasting, creamy white head. 
+    :flavor:
+Medium
+-
+low to medium bready
+-
+rich malt flavor with a crisp, hoppy finish. Low to medium
+-
+high spicy or herbal hop 
+flavor. Bitterness is prominent but never 
+harsh. Flavorful but refreshing. Diacetyl or fruity esters are acceptable, but need not be 
+present and should never be overbearing.
+    :mouthfeel:
+Light to medium body. Moderate carbonation. 
+    :overall:
+A lighter
+-
+bodied, rich, refreshing, hoppy, bitte
+r, crisp pale Czech lager having the familiar flavors of the 
+stronger Czech Pilsner
+-
+type beer but in a lower alcohol, lighter
+-
+bodied, and slightly less intense format.
+    :comments:
+The proper Czech name of the style is Sv?tl? V??epn? Pivo. 
+    :history: 
+Records s
+hows that
+Pilsner Urquell brewed a 10 ?P beer in 1842
+-
+3. This is the most consumed type of beer in the Czech 
+Republic at present.
+    :ingredients:
+Soft water with low sulfate and carbonate content, Saazer
+-
+type hops, Czech Pilsner malt, Czech 
+lag
+er yeast. Decoction mashing and long, cold fermentation are traditional. Low ion water provides a distinctively soft, rounded
+hop profile despite high hopping rates. The fermentation process can sometimes provide background diacetyl.
+    :comparison: 
+A li
+ghter
+-
+bodied, lower
+-
+intensity, refreshing, everyday version of Czech Premium Pale Lager.
+    :stats:
+      :og:
+1.036 
+-
+1.044
+      :bitterness:
+25 
+-
+35
+      :fg:
+1.008 
+-
+1.014
+      :color:
+3 
+-
+6
+      :abv:
+3.0 
+-
+4.0%
+    :examples: 
+?n?ticke Pivo 10?, Pivovar Kout na ?umav? Koutsk? 1
+0?, Novosad Glassworks Brewery Hu?sk? 
+V??epn? 8?, ?ern? Orel Sv?tl? 11?, B?ez??k Sv?tl? V??epn? Pivo, Notch Session Pils
+References:
+Original writeup by Lachlan Strong. Field research by Bob Hall. Review by Stan Hieronymus, Evan Rail.
+3B. Czech Premium Pa
+le Lager
+    :aroma:
+Medium to medium
+-
+high bready
+-
+rich malt and medium
+-
+low to medium
+-
+high spicy, floral, or herbal hop bouquet; though 
+the balance between the two may vary, the interplay is rich and complex. Light to moderate diacetyl, or very low fruity hop
+-
+de
+rived esters are acceptable, but need not be present. 
+    :appearance:
+Gold to deep gold color. Brilliant to very clear, with a dense, long
+-
+lasting, creamy white head. 
+    :flavor:
+Rich, complex, bready maltiness combined with a pronounced yet soft and rounded bit
+terness and floral and spicy hop 
+flavor. Malt and hop flavors are medium to medium
+-
+high, and the malt may contain a slight impression of caramel. Bitterness is 
+prominent but never harsh. The long finish can be balanced towards hops or malt but is never agg
+ressively tilted either way. 
+Light to moderate diacetyl and low hop
+-
+derived esters are acceptable, but need not be present.
+    :mouthfeel:
+Medium body. Moderate to low carbonation. 
+    :overall:
+Rich, characterful pale Czech lager, with considerable mal
+t and hop character and a long, crisp finish. 
+Complex yet well
+-
+balanced and refreshing. The malt flavors are complex for a Pilsner
+-
+type beer, and the bitterness is strong but 
+clean and without harshness, which gives a rounded impression that enhances drink
+ability.
+    :comments:
+Generally a group of "
+Pivo Plze?sk?ho Typ?", or Pilsner
+-
+style beers. This style is a combination of the Czech styles 
+Sv?tl? Le??k (4.4 
+-
+5.0%) and Sv?tl? Speci?ln? Pivo (5.3 
+-
+5.8%). In the Czech Republic, only Pilsner Urquell is called a Pilsner, 
+despite how widely adopted thi
+s name is worldwide. "Kvasnicov?" ("yeast beer") versions are popular in the Czech Republic, 
+and may be either kr?usened or unfiltered. These beers are sometimes cloudy, with subtle yeastiness and enhanced hop characte
+r. 
+Modern examples vary in their malt 
+to hop balance and many are not as hop
+-
+forward as Pilsner Urquell.
+    :history:
+Commonly associated with Pilsner Urquell, which was first brewed in 1842 after construction of a new brewhouse by 
+burghers dissatisfied with the standard of beer brewed in 
+Plze?. Bavarian brewer Josef Groll is credited with first brewing the 
+beer.
+    :ingredients:
+Soft water with low sulfate and carbonate content, Saazer
+-
+type hops, Czech malt, Czech lager yeast. 
+Decoction mashing and long, cold fermentation are tr
+aditional. Low ion water provides a distinctively soft, rounded hop profile 
+despite high hopping rates. The fermentation process can sometimes provide background diacetyl.
+    :comparison: 
+More color, malt richness, and body than a German Pils, with a ful
+ler finish and a cleaner, softer impression.
+    :stats:
+      :og:
+1.044 
+-
+1.056
+      :bitterness:
+30 
+-
+45
+      :fg:
+1.013 
+-
+1.017
+      :color:
+3.5 
+-
+6
+      :abv:
+4.2 
+-
+5.8%
+    :examples:
+Kout na ?umav? Koutsk? 12?, Uneticka 12?, Pilsner Urquell, Bernard Svatecn? Le??k, Gambrinus 
+Premium, Je?ek 11? Pivovar Jihlava, Budweiser Budvar (Czechvar in the US)
+References:
+Original writeup by Lachlan Strong. Field research by Bob Hall. Review by Sta
+n Hieronymus, Evan Rail.
+3C. Czech Amber Lager
+    :aroma:
+Moderate intensity, rich malt aroma that can be either bready and Maillard product
+-
+dominant or slightly caramelly and 
+candy
+-
+like. Spicy, floral or herbal hop character may be moderate to none. Clean la
+ger character, though low fruity esters (stone 
+fruit or berries) may be present. Diacetyl is optional and can range from low to none.
+    :appearance:
+Deep amber to copper color. Bright to clear. Large, off
+-
+white, persistent head. 
+    :flavor:
+Malt flavor complexit
+y is dominant (medium to medium
+-
+high), though its nature may vary from dry and Maillard 
+product
+-
+dominant to caramelly and almost sweet. Some example have a candy
+-
+like to graham
+-
+cracker malt character. Low to 
+moderate spicy hop flavor. Prominent but clean h
+op bitterness provides a balanced finish. Subtle plum or berry esters optional. 
+Low diacetyl optional. No roasted malt flavor. Finish may vary from dry and hoppy to relatively sweet.
+    :mouthfeel:
+Medium
+-
+full to medium body. Soft and round, often with a gentl
+e creaminess. Moderate to low carbonation.
+    :overall:
+Malt
+-
+driven amber Czech lager with hop character that can vary from low to quite significant. The malt 
+flavors can vary quite a bit, leading to different interpretations ranging from drier, bre
+ady, and slightly biscuity to sweeter and 
+somewhat caramelly.
+    :comments:
+The Czech name of the style is Polotmav? Pivo
+, which translates as 
+half dark
+. 
+This style is a combination of the 
+Czech styles Polotmav? Le
+??k (4.4 
+-
+5.0%) and  Polotmav? Speci?ln? Pivo (5.3 
+-
+5.8%).
+    :history: 
+Vienna
+-
+style lager 
+which has continued to be brewed in the Czech Republic. A resurgence of small breweries opening 
+in the Czech Republic has increased the number of examples of this styl
+e. 
+    :ingredients:
+Pilsner and caramel malts, but Vienna and Munich malts may also be used. Soft water with low 
+mineral content, Saazer
+-
+type hops, Czech lager yeast. Decoction mashing and long, cold fermentation are traditional.
+Style Comparis
+on: 
+The style 
+can vary from similar to a Vienna lager but with Saazer
+-
+type hop character, to having significantly 
+richer and more caramelly character approaching that of an amber ale or bitter. Large brewery versions are generally similar 
+to 
+Czech Pilsners
+with slightly darker malt flavors and less hop, while smaller breweries often make versions with considerable hop 
+character, malt complexity, or residual sweetness.
+    :stats:
+      :og:
+1.044 
+-
+1.056
+      :bitterness:
+20 
+-
+35
+      :fg:
+1.013 
+-
+1.017
+      :color:
+10 
+-
+16
+      :abv:
+4.4 
+-
+5.8%
+    :examples:
+?ern? Orel polotmav? 12?, Prim?tor polotmav? 13?, Jihlavsk? Radni?n? Pivovar Zikmund, Pivovar 
+Vysok? Chlumec D?mon, Pivovar Bene?ov Sedm kul?, Bernard Jantar
+References:
+Original writeup by Lachlan Strong. Field research by Bob Hall. Review by Stan Hierony
+mus, Evan Rail.
+3D. Czech Dark Lager
+    :overall: 
+Tannic. Medium to medium
+-
+sweet. Still to lightly sparkling. Only very slight acetification is acceptable. 
+Mousiness and ropy/oily characters are serious faults. 
+    :comments:
+Note that a "dry" perry may give an impression of sweetness du
+e to sorbitol in the pears, and perception of sorbitol 
+as "sweet" is highly variable from one person to the next. Hence entrants should specify sweetness according to actual residu
+al 
+sugar amount, and judges must be aware that they might perceive more swee
+tness than how the perry was entered.
+Entry Instructions:
+Entrants 
+MUST
+specify carbonation level (3 levels). Entrants 
+MUST
+specify sweetness (5 categories). 
+Entrants 
+MUST 
+state variety of pear(s) used. 
+Varieties:
+Butt, Gin, Brandy, Barland, Blakeney Re
+d, Thorn, Moorcroft, etc. 
+    :stats:
+      :og:
+1.050 
+-
+1.070
+      :fg:
+1.000 
+-
+1.020
+      :abv:
+5 
+-
+9% 
+    :examples: 
+[US] AEppeltreow Orchard Oriole Perry (WI);  [France] Bordelet Poire Authentique and Poire Granit, 
+Christian Drouin Poire, [UK] Oliver's 
+Classic, Blakeney Red, and Herefordshire Dry; Hogan's Vintage Perry.
+40.
+SPECIALTY
+CIDER
+AND
+PERRY
+Specialty cider/perry includes beverages made with added flavorings (spices and/or other fruits), those made with substantial
+amounts of sugar
+-
+sources t
+o increase starting gravities, and the beverage made from a combination of apple and pear juice 
+(sometimes called "pider"). 
+The same general characteristics and fault descriptions apply to specialty ciders as to standard ciders (preceding category),
+with 
+the exception of added ingredients allowed. 
+40A. New England Cider 
+This is a cider made with characteristic New England apples for relatively high acidity, with additives to raise alcohol leve
+ls and 
+contribute additional flavor notes. 
+Aroma/    :flavor:
+A 
+flavorful cider with robust apple character, strong alcohol, and derivative flavors from sugar additives; 
+traditionally dry. 
+    :appearance:
+Clear to brilliant, pale to medium yellow. 
+    :mouthfeel: 
+Substantial, alcoholic. Moderate tannin. 
+Overall impression:
+Substantial body and character. Typically relatively dry, but can be somewhat sweet if in balance and not 
+containing hot alcohol.
+    :comments:
+Additives may include white and brown sugars, molasses, small amounts of honey, and raisins. Additives are 
+intend
+ed to raise OG well above that which would be achieved by apples alone. This style is sometimes barrel
+-
+aged, in which 
+case there will be oak character as with a barrel
+-
+aged wine. If the barrel was formerly used to age spirits, some flavor notes from 
+the sp
+irit (e.g., whisky or rum) may also be present, but must be subtle. 
+Entry Instructions: 
+Entrants 
+MUST
+specify if the cider was barrel
+-
+fermented or aged. Entrants 
+MUST
+specify carbonation level 
+(3 levels). Entrants 
+MUST
+specify sweetness (5 levels). 
+Varie
+ties: 
+Northern Spy, Roxbury Russet, Golden Russet, Baldwin, etc.; many traditional New England apples.
+    :stats:
+      :og:
+1.060 
+-
+1.100
+      :fg:
+0.995 
+-
+1.020
+      :abv:
+7 
+-
+13% 
+    :examples: 
+[US] Snowdrift Semi
+-
+Dry (WA), Blackbird Cider Works New Eng
+land Style (NY). 
+40B. Cider with Other Fruit 
+This is a cider with other fruits or fruit
+-
+juices added 
+-
+for example, berry. Note that a "cider" made from a combination of apple 
+and pear juice would be entered in this category since it is neither cider no
+r perry. 
+Aroma/    :flavor:
+The cider character must be present and must fit with the other fruits. It is a fault if the added fruit(s) completely 
+dominate; a judge might ask, "Would this be different if neutral spirits replaced the cider?"  A fruit cider sho
+uld not be like an 
+alco
+-
+pop. Oxidation is a fault. 
+    :appearance:
+Clear to brilliant. Color appropriate to added fruit, but should not show oxidation characteristics. (For example, 
+red berries should give red
+-
+to
+-
+purple color, not orange.) 
+    :mouthfeel:
+Subst
+antial. May be significantly tannic, depending on fruit added. 
+    :overall: 
+Like a white wine with complex flavors. The apple character must marry with the added fruit so that 
+neither one dominates the other. 
+Entry Instructions:
+Entrants 
+MUST
+sp
+ecify carbonation level (3 levels). Entrants 
+MUST
+specify sweetness (5 categories). 
+Entrants 
+MUST
+specify all fruit(s) and/or fruit juice(s) added. 
+    :stats:
+      :og:
+1.045 
+-
+1.070
+      :fg:
+0.995 
+-
+1.010
+      :abv:
+5 
+-
+9% 
+    :examples:
+[US] West Count
+y Blueberry
+-
+Apple Wine (MA),  Bellwether Cherry Street (NY), Uncle John's Fruit 
+Farm Winery Apple Cherry, Apple Blueberry, and Apricot Apple Hard Cider (MI)
+40C. Applewine 
+The term for this category is traditional but possibly misleading: it is simply a cider with substantial added sugar to achie
+ve 
+higher alcohol than a standard cider. As such it comes closer to a white wine than any other style. No fruit other than apple
+s m
+ay 
+be used in this style.
+Aroma/    :flavor: 
+Comparable to a New World Cider. Cider character must be distinctive. Very dry to sweet, although often dry. 
+    :appearance:
+Clear to brilliant, pale to medium
+-
+gold. Cloudiness or hazes are inappropriate.
+    :mouthfeel: 
+Lighter than other ciders, because higher alcohol is derived from addition of sugar rather than juice. Carbonation 
+may range from still to champagne
+-
+like. 
+    :overall:
+Typically like a dry white wine, balanced, and with low astringency and bittern
+ess. 
+Entry Instructions:
+Entrants 
+MUST
+specify carbonation level (3 levels). Entrants 
+MUST
+specify sweetness (5 levels). 
+    :stats:
+      :og:
+1.070 
+-
+1.100
+      :fg:
+0.995 
+-
+1.020
+      :abv:
+9 
+-
+12% 
+    :examples:
+[US] Uncle John's Fruit House Winery Fru
+it House Apple (MI), McClure's Sweet Apple Wine (IN).
+40D. Ice Cider
+This is a cider style in which the juice is concentrated before fermentation either by freezing fruit before pressing or free
+zing 
+juice and removing water. Fermentation stops or is arres
+ted before reaching dryness. The character differs from Applewine in 
+that the ice cider process increases not only sugar (hence alcohol) but acidity and all fruit flavor components proportionate
+ly. No 
+additives are permitted in this style; in particular, s
+weeteners may not be used to increase gravity. This style originated in 
+Quebec in the 1990s.
+Aroma/    :flavor: 
+Fruity, smooth, sweet
+-
+tart. Acidity must be enough to prevent it being cloying.
+    :appearance:
+Brilliant. Color is deeper than a standard cider, gold 
+to amber.
+    :mouthfeel:
+Full body. May be tannic (astringent and/or bitter) but this should be slight, to moderate at most.
+Entry Instructions: 
+Entrants 
+MUST
+specify starting gravity, final gravity or residual sugar, and alcohol level. Entrants 
+MUST
+specif
+y carbonation level (3 levels).
+Varieties:
+Usually North American classic table fruit such as McIntosh or Cortland.
+    :stats:
+      :og:
+1.130 
+-
+1.180
+      :fg:
+1.060 
+-
+1.085
+      :abv:
+7 
+-
+13% 
+    :examples:
+[US] various from Eden Ice Cider Company and C
+hamplain Orchards. 
+[Canada] Domaine Pinnacle, Les 
+Vergers de la Colline, and Cidrerie St
+-
+Nicolas (Quebec).
+40E. Cider with Herbs/Spices
+This is a cider with any combination of "botanicals" added. Hopped ciders are included in this category. Other examples
+are 
+ciders with "apple pie" spices (cinnamon, nutmeg, allspice), ginger, lemon grass, herbal tea blends, etc.
+Aroma/    :flavor:
+The cider character must be present and must fit with the botanicals. As with a fruit cider, it is a fault if the 
+botanicals domin
+ate; a judge might ask, "Would this be different if neutral spirits replaced the cider?"  Oxidation of either the 
+base cider or the additions is a fault. 
+    :appearance:
+Clear to brilliant. Color appropriate to added botanicals. 
+    :mouthfeel:
+Average or more.
+Cider may be tannic from effect of botanicals but must not be bitter from over
+-
+extraction. 
+    :overall: 
+Like a white wine with complex flavors. The apple character must marry with the botanicals and give a 
+balanced result. 
+Entry Instructions:
+E
+ntrants 
+MUST
+specify carbonation level (3 levels). Entrants 
+MUST
+specify sweetness (5 categories). 
+Entrants 
+MUST
+specify all botanicals added. If hops are used, entrant must specify variety/varieties used.
+    :stats:
+      :og:
+1.045 
+-
+1.070
+      :fg:
+0.995 
+-
+1.010
+      :abv:
+5 
+-
+9% 
+    :examples:
+[US] Colorado Cider Grasshop
+-
+ah (CO), Wandering Aengus Anthem Hops (OR).
+40F. Specialty Cider/Perry 
+This is an open
+-
+ended category for cider or perry with other ingredients such that it does not fit any of the ca
+tegories above. This 
+includes the use of other sweeteners. A cider with added honey may be entered here if the cider character remains dominant; 
+otherwise it should be entered as mead in the cyser sub
+-
+category. Examples also include wood
+-
+fermented or aged 
+ciders in which 
+the wood/barrel character is a significant part of the overall flavor profile.
+Aroma/    :flavor: 
+The cider character must always be present, and must fit with added ingredients. If a spirit barrel was used, the 
+character of the spirit (rum, wh
+iskey, etc.) must be no more than just recognizable; it must not be a substantial element of the 
+flavor. 
+    :appearance:
+Clear to brilliant. Color should be that of a standard cider unless other ingredients are expected to contribute color. 
+    :mouthfeel:
+Ave
+rage body, may show tannic (astringent) or heavy body as determined by other ingredients. 
+Entry Instructions: 
+Entrants 
+MUST
+specify all ingredients. Entrants 
+MUST
+specify carbonation level (3 levels). Entrants 
+MUST
+specify sweetness (5 categories). 
+Vita
+l Statistics:
+      :og:
+1.045 
+-
+1.100
+      :fg:
+0.995 
+-
+1.020
+      :abv:
+5 
+-
+12% 
+    :examples:
+[US] Finn River Fire Barrel (WA).
+
