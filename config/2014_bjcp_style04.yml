@@ -1,0 +1,60 @@
+---
+- :category: 4
+  :subcategory: A
+  :name: Munich Helles
+  :aroma: Moderate grainy-sweet malt aroma. Low to moderately-low spicy, floral, or herbal hop aroma. While a clean aroma is most desirable, a very low background note of DMS is not a fault. Pleasant, clean fermentation profile, with malt dominating the balance. The freshest examples will have more of a malty-sweet aroma.
+  :appearance: Medium yellow to pale gold. Clear. Creamy white head with good persistence.
+  :flavor: Starting moderately malty with the suggestion of sweetness, moderate grainy-sweet malt flavor with a soft, rounded palate impression, supported by a low to medium-low hop bitterness. The finish is soft and dry, not crisp and biting. Low to moderately-low spicy, floral or herbal hop flavor. The malt dominates the hops in the palate, finish, and aftertaste, but the hops should be noticeable. There should not be any residual sweetness, simply the impression of maltiness with restrained bitterness.  Very fresh examples will seem sweeter due to the fresh, rich malt character that can fade with time. Clean fermentation profile.
+  :mouthfeel: Medium body. Medium carbonation. Smooth, well-lagered character.
+  :overall_impression: A clean, malty, gold-colored German lager with a smooth grainy-sweet malty flavor and a soft, dry finish.  Subtle spicy, floral, or herbal hops and restrained bitterness help keep the balance malty but not sweet, which helps make this beer a refreshing, everyday drink.
+  :comments: A fully-attenuated Pils malt showcase, Helles is a malt-accentuated beer that is not overly sweet, but rather focuses on malt flavor with underlying hop bitterness in a supporting role. Export examples can quickly lose some of the rich malt character that often suggests sweetness. Helles in Munich tends to be lighter in all aspects than those outside the city, which can be more assertive with more body, flavor, and hop character.
+  :history: Created in Munich in 1894 at the Spaten brewery to compete with pale Pilsner-type beers. Currently the most popular style in Southern Germany.
+  :characteristic_ingredients: Continental Pilsner malt, traditional German Saazer-type hop varieties, clean German lager yeast.
+  :comparison: Similar in malt balance and bitterness to Munich Dunkel, but less malty-sweet in nature and pale rather than dark. More body and malt presence than a German Pils, with less hop character throughout. Similar malt profile as a German Exportbier, but with less hops in the balance. 
+  :stats:
+    :og: 1.044 - 1.048
+    :bitterness: 16 - 22 IBU
+    :fg: 1.006 - 1.012
+    :color: 3 - 5 SRM
+    :abv: 4.7 - 5.4%
+  :commercial_examples: Weihenstephaner Original, Hacker-Pschorr M?nchner Gold, B?rgerbr?u Wolznacher Hell Naturtr?b, Paulaner Premium Lager, Spaten Premium Lager, L?wenbra? Original
+
+- :category: 4
+  :subcategory: B
+  :name: Festbier
+  :aroma: Moderate malty richness, with an emphasis on toasty-doughy aromatics and an impression of sweetness. Low to medium-low floral, herbal, or spicy hops. The malt should not have a deeply toasted, caramel, or biscuity quality. Clean lager fermentation character.
+  :appearance: Deep yellow to deep gold color; should not have amber hues. Bright clarity. Persistent white to off-white foam stand. Most commercial examples are medium gold in color.
+  :flavor: Medium to medium-high malty flavor initially, with a lightly toasty, bread dough quality and an impression of soft sweetness. Medium to medium-low bitterness, definitely malty in the balance. Well-attenuated and crisp, but not dry. Medium-low to medium floral, herbal, or spicy hop flavor. Clean lager fermentation character. The taste is mostly of Pils malt, but with slightly toasty hints. The bitterness is supportive, but still should yield a malty, flavorful finish.
+  :mouthfeel: Medium body, with a smooth, somewhat creamy texture. Medium carbonation. Alcohol strength barely noticeable as warming, if at all. 
+  :overall_impression: A smooth, clean, pale German lager with a moderately strong malty flavor and a light hop character. Deftly balances strength and drinkability, with a palate impression and finish that encourages drinking. Showcases elegant German malt flavors without becoming too heavy or filling.
+  :comments: This style represents the modern German beer served at Oktoberfest, and is sometimes called Wiesn ("the meadow" or local name for the Oktoberfest festival). We chose to call this style Festbier since by German and EU regulations, Oktoberfestbier is a protected appellation for beer produced at large breweries within the Munich city limits for consumption at Oktoberfest. Beer in other countries is not bound by those rules, so many craft breweries in the US produce beer called Oktoberfest, but based on the traditional style described in these guidelines as M?rzen. 
+  :history: Since 1990, the majority of beer served at Oktoberfest in Munich has been this style. Export beer specifically made for the United States is still mainly of the traditional amber style, as are US-produced interpretations. Paulaner first created the golden version in the mid-1970s because they thought the traditional Oktoberfest was too filling. So they developed a lighter, more drinkable but still malty version that they wanted to be "more poundable" (according to the head brewer at Paulaner).
+  :characteristic_ingredients: Majority Pils malt, but with some Vienna and/or Munich malt to increase maltiness. Differences in commercial examples are mostly due to different maltsters and yeast, not major grist differences.
+  :comparison: Less intense and less richly toasted than a M?rzen. More rich-heavy in body than a Helles, with more hop flavor and higher alcohol. Less rich in malt intensity than a Maibock. The malt complexity is similar to a higher-gravity Czech Pilsner, although without the associated hops.
+  :stats:
+    :og: 1.054 - 1.057
+    :bitterness: 18 - 24 IBU
+    :fg: 1.010 - 1.012
+    :color: 4 - 6 SRM
+    :abv: 5.8 - 6.3%
+  :commercial_examples: Paulaner Wiesn, L?wenbr?u Oktoberfestbier, Hofbr?u Festbier, Hacker-Pschorr Superior Festbier, Augustiner Oktoberfest, Sch?nramer Gold
+
+- :category: 4
+  :subcategory: C
+  :name: Helles Bock
+  :aroma: Moderate to strong grainy-sweet malt aroma, often with a lightly toasted quality and low Maillard products. Moderately-low to no hop aroma, often with a spicy, herbal, or floral quality. Clean fermentation profile. Fruity esters should be low to none.  Some alcohol may be noticeable. May have a light DMS aroma.
+  :appearance: Deep gold to light amber in color. Good clarity. Large, creamy, persistent, white head.  
+  :flavor: The rich flavor of continental European pale malts dominates (grainy-sweet malt flavor with some toasty notes and/or Maillard products). Little to no caramelization. May have a light DMS flavor. Moderate to no hop flavor (spicy, herbal, floral, peppery). Moderate hop bitterness (more so in the balance than in other bocks). Clean fermentation profile. Well-attenuated, not cloying, with a moderately-dry finish that may taste of both malt and hops.
+  :mouthfeel: Medium-bodied. Moderate to moderately-high carbonation. Smooth and clean with no harshness or astringency, despite the increased hop bitterness. Some alcohol warming may be present.
+  :overall_impression: A relatively pale, strong, malty German lager beer with a nicely attenuated finish that enhances drinkability. The hop character is generally more apparent than in other bocks.
+  :comments: Also known as Mai Bock, but there is some dispute whether Helles ("pale") Bock and Mai ("May") Bock are synonymous. Most agree that they are identical, but some believe that Maibock is a "fest" type beer hitting the upper limits of hopping and color for the range. Any fruitiness is due to Munich and other specialty malts, not yeast-derived esters developed during fermentation. The hops compensate for the lower level of Maillard products.
+  :history: A fairly recent development in comparison to the other members of the bock family. The serving of Maibock is specifically associated with springtime and the month of May.  
+  :characteristic_ingredients: Base of Pils and/or Vienna malt with some Munich malt to add character (although much less than in a traditional bock). No non-malt adjuncts. Saazer-type hops. Soft water preferred so as to avoid harshness. Clean lager yeast.  Decoction mash is typical, but boiling is less than in traditional bocks to restrain color development.
+  :comparison: Can be thought of as either a pale version of a traditional bock, or a Munich helles brewed to bock strength.  While quite malty, this beer typically has less dark and rich malt flavors than a traditional bock. May also be drier, hoppier, and more bitter than a dunkels bock. Has more of a rich malt character and more alcohol than a Festbier.
+  :stats:
+    :og: 1.064 - 1.072
+    :bitterness: 23 - 35 IBU
+    :fg: 1.011 - 1.018
+    :color: 6 - 11 SRM
+    :abv: 6.3 - 7.4%
+  :commercial_examples: Ayinger Maibock, Mahr's Bock, Hacker-Pschorr Hubertus Bock, Altenm?nster Maibock, Capital Maibock, Einbecker Mai-Urbock, Blind Tiger Maibock 

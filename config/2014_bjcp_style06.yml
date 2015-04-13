@@ -1,0 +1,59 @@
+---
+- :category: 6
+  :subcategory: A
+  :name: M?rzen
+  :aroma: Moderate intensity aroma of German malt, typically rich, bready, somewhat toasty, with light bread crust notes. Clean lager fermentation character. No hop aroma. Caramel, dry-biscuity, or roasted malt aromas inappropriate. Very light alcohol might be detected, but should never be sharp. Clean, elegant malt richness should be the primary aroma.
+  :appearance: Amber-orange to deep reddish-copper color. Bright clarity, with persistent, off-white, foam stand.
+  :flavor: Initial malt flavor often suggests sweetness, but finish is moderately-dry to dry. Distinctive and complex maltiness often includes a bready, toasty aspect. Hop bitterness is moderate, and the hop flavor is low to none (German types: complex, floral, herbal, or spicy). Hops provide sufficient balance that the malty palate and finish do not seem sweet. The aftertaste is malty, with the same elegant, rich malt flavors lingering. Noticeable caramel, biscuit, or roasted flavors are inappropriate. Clean lager fermentation profile.
+  :mouthfeel: Medium body, with a smooth, creamy texture that often suggests a fuller mouthfeel. Medium carbonation. Fully attenuated, without a sweet or cloying impression. May be slightly warming, but the strength should be relatively hidden.
+  :overall_impression: An elegant, malty German amber lager with a clean, rich, toasty and bready malt flavor, restrained bitterness, and a dry finish that encourages another drink. The overall malt impression is soft, elegant, and complex, with a rich aftertaste that is never cloying or heavy. 
+  :comments: Domestic German Oktoberfest versions are golden, like a strong Pils-dominated Helles-see the Festbier style for this version.  Export German versions are typically orange-amber in color, have a distinctive toasty malt character, and are most often labeled Oktoberfest . Historic versions of the beer tended to be darker, towards the brown color range.
+  :history: Developed by Spaten in 1841 contemporaneously with the development of Vienna lager. First served as Oktoberfestbier in Munich in 1872. As the name suggests, brewed as a stronger "March beer" in March and lagered in cold caves over the summer. Since 1990, all beer served at Oktoberfest in Munich has been golden in color (see the Festbier style), but export beer to the United States is still mainly of this traditional amber style, as are most US-produced interpretations. Most Americans will recognize this beer as Oktoberfest.
+  :characteristic_ingredients: Grist varies, although traditional German versions emphasized Munich malt. The notion of elegance is derived from the finest quality ingredients, particularly the base malts. A decoction mash was traditionally used to develop the rich malt profile.
+  :comparison: Not as strong and rich as a Dunkels Bock. More malt depth and richness than a Festbier, with a heavier body and slightly less hops. Less hoppy and equally malty as a Czech Amber Lager.
+  :stats:
+    :og: 1.054-1.060
+    :bitterness: 18-24 IBU
+    :fg: 1.010-1.014
+    :color: 10-17 SRM
+    :abv: 5.8-6.3%
+  :commercial_examples: Buergerliches Brauhaus Saalfeld Ur-Saalfelder, Paulaner Oktoberfest, Ayinger Oktoberfest-M?rzen, Hacker-Pschorr Original Oktoberfest, Weltenburg Kloster Anno 1050
+
+- :category: 6
+  :subcategory: B
+  :name: Rauchbier
+  :aroma: Blend of smoke and malt, with a varying balance and intensity. The beechwood smoke character can range from subtle to fairly strong, and can seem smoky, woody, or bacon-like. The malt character can be low to moderate, and be somewhat rich, toasty, or malty-sweet. The malt and smoke components are often inversely proportional (i.e., when smoke increases, malt decreases, and vice versa). Hop aroma may be very low to none. Clean lager fermentation character.
+  :appearance: This should be a very clear beer, with a large, creamy, rich, tan-to cream-colored head. Medium amber/light copper to dark brown color.
+  :flavor: Generally follows the aroma profile, with a blend of smoke and malt in varying balance and intensity, yet always complementary. M?rzen-like qualities should be noticeable, particularly a malty, toasty richness, but the beechwood smoke flavor can be low to high. At higher levels, the smoke can take on a bacon-like character, which is acceptable as long as it doesn't veer into the greasy range. The palate can be somewhat malty-rich-sweet, yet the finish tends to be medium-dry to dry with the smoke character sometimes enhancing the dryness of the finish. The aftertaste can reflect both malt richness and smoke flavors, with a balanced presentation desirable. Moderate, balanced, hop bitterness. Moderate to none hop flavor with spicy, floral, or herbal notes. Clean lager fermentation character. Harsh, bitter, burnt, charred, rubbery, sulfury or phenolic smoky characteristics are inappropriate.
+  :mouthfeel: Medium body. Medium to medium-high carbonation. Smooth lager character. Significant astringent, phenolic harshness is inappropriate.
+  :comments: Literally "smoke beer" in German.  The intensity of smoke character can vary widely; not all examples are highly smoked. Allow for variation in the style when judging. Other examples of smoked beers are available in Germany based on styles such as Dunkles Bock, Weissbier, Dunkel, Schwarzbier, and Helles, including examples such as Spezial Lager; these should be entered in the Classic Style Smoked Beer category.
+  :history: A historical specialty of the city of Bamberg, in the Franconian region of Bavaria in Germany. Beechwood-smoked malt is used to make a M?rzen-style amber lager. The smoke character of the malt varies by maltster; some breweries produce their own smoked malt (rauchmalz).  
+  :characteristic_ingredients: German Rauchmalz (beechwood-smoked Vienna-type malt) typically makes up 20-10 0% of the grain bill, with the remainder being German malts typically used in a M?rzen. Some breweries adjust the color slightly with a bit of roasted malt. German lager yeast. German or Czech hops.
+  :comparison: Like a M?rzen with but with a balanced, sweet, smoky aroma and flavor and a somewhat darker color.
+  :stats:
+    :og: 1.050-1.057
+    :bitterness: 20-30 IBU
+    :fg: 1.012-1.016
+    :color: 12-22 SRM
+    :abv: 4.8-6%
+  :commercial_examples: Schlenkerla Rauchbier M?rzen, Kaiserdom Rauchbier, Eisenbahn Defumada, Spezial Rauchbier M?rzen, Victory Scarlet Fire Rauchbier
+
+- :category: 6
+  :subcategory: C
+  :name: Dunkles Bock
+  :aroma: Medium to medium-high bready-malty-rich aroma, often with moderate amounts of rich Maillard products and/or toasty overtones. Virtually no hop aroma. Some alcohol may be noticeable. Clean lager character, although the malts can provide a slight (low to none) dark fruit character, particularly in aged examples. 
+  :appearance: Light copper to brown color, often with attractive garnet highlights. Lagering should provide good clarity despite the dark color. Large, creamy, persistent, off-white head.  
+  :flavor: Complex, rich maltiness is dominated by the toasty-rich Maillard products. Some caramel notes may be present. Hop bitterness is generally only high enough to support the malt flavors, allowing a bit of sweetness to linger into the finish. Well-attenuated, not cloying. Clean fermentation profile, although the malt can provide a slight dark fruit character. No hop flavor. No roasted or burnt character.
+  :mouthfeel: Medium to medium-full bodied. Moderate to moderately low carbonation. Some alcohol warmth may be found, but should never be hot. Smooth, without harshness or astringency.
+  :overall_impression: A dark, strong, malty German lager beer that emphasizes the malty-rich and somewhat toasty qualities of continental malts without being sweet in the finish.  
+  :comments: Decoction mashing and long boiling plays an important part of flavor development, as it enhances the caramel and Maillard flavor aspects of the malt. Any fruitiness is due to Munich and other specialty malts, not yeast-derived esters developed during fermentation.
+  :history: Originated in the Northern German city of Einbeck, which was a brewing center and popular exporter in the days of the Hanseatic League (14th to 17th century). Recreated in Munich starting in the 17th century. The name "bock" is based on a corruption of the name "Einbeck" in the Bavarian dialect, and was thus only used after the beer came to Munich. "Bock" also means "Ram" in German, and is often used in logos and advertisements.
+  :characteristic_ingredients: Munich and Vienna malts, rarely a tiny bit of dark roasted malts for color adjustment, never any non-malt adjuncts. Continental European hop varieties are used. Clean German lager yeast. 
+  :comparison: Darker, with a richer malty flavor and less apparent bitterness than a Helles Bock. Less alcohol and malty richness than a Doppelbock. Stronger malt flavors and higher alcohol than a M?rzen. Richer, less attenuated, and less hoppy than a Czech Amber Lager.
+  :stats:
+    :og: 1.064-1.072
+    :bitterness: 20-27 IBU
+    :fg: 1.013-1.019
+    :color: 14-22 SRM
+    :abv: 6.3-7.2%
+  :commercial_examples: Einbecker Ur-Bock Dunkel, Kneitinger Bock, Aass Bock, Great Lakes Rockefeller Bock, New Glarus Uff-da Bock, Penn Brewery St. Nikolaus Bock

@@ -1,0 +1,60 @@
+---
+- :name: International Pale Lager
+  :category: 2
+  :subcategory: A
+  :aroma: Low to medium-low malt aroma, which can be grainy, malty or slightly corny-sweet. Hop aroma may range from very low to a medium, spicy or floral hop presence. While a clean fermentation profile is generally most desirable, low levels of yeast character (such as a light apple fruitiness) are not a fault.  Light amounts of DMS are not a fault.
+  :appearance: Pale straw to gold color. White, frothy head may not be long lasting. Very clear.
+  :flavor: Low to moderate levels of grainy-malt flavor, with a crisp, dry, well-attenuated finish. The grain character can be somewhat neutral, or show a light bready-crackery quality or a touch of corny or malty sweetness. Hop flavor ranges from none to medium levels, and often showing a floral, spicy, or herbal character if detected. Hop bitterness at medium-low to medium level . Balance may vary from slightly malty to slightly bitter, but is relatively close to even. High levels of carbonation and sometimes minerals in the water may accentuate the crispness of the dry finish. Neutral, drying aftertaste with light malt and sometimes hop flavors. Light amounts of DMS are not a fault.
+  :mouthfeel: Light to medium body. Moderately-high to highly carbonated. Can have a slight carbonic bite on the tongue.
+  :overall_impression: A highly-attenuated pale lager without strong flavors, typically well-balanced and highly carbonated.  Served cold, it is refreshing and thirst-quenching.
+  :comments: International lagers tend to have fewer adjuncts than standard American lagers. They may be all-malt, although strong flavors are still a fault. A broad category of international mass-market lagers ranging from upscale American lagers to the typical "import" or "green bottle" international beers found in America and many export markets. Often confusingly labeled as a "Pilsner." Any skunkiness in commercial beers from being lightstruck in a green bottle is a mishandling fault, not a characteristic of the style.
+  :history: In the United States, developed as a premium version of the standard American lager, with a similar history. Outside the United States, developed either as an imitation of American style lagers, or as a more accessible (and often drier and less bitter) version of a Pilsner-type beer. Often heavily marketed and exported by large industrial or multi-national breweries.
+  :characteristic_ingredients: Two or six-row barley. May use rice, corn, or sugar as adjuncts, or may be all malt.
+  :comparison: Generally more bitter and filling than American lager. Less hoppy and bitter than a German Pils. Less body, malt flavor, and hop character than a Czech Pilsner.
+  :stats:
+    :og: 1.042 - 1.050
+    :bitterness: 18 - 25 IBU
+    :fg: 1.008 - 1.012        
+    :color: 2 - 6 SRM
+    :abv: 4.6 - 6.0%
+  :commercial_examples: Heineken, Corona Extra, Asahi Super Dry, Full Sail Session Premium Lager, Birra Moretti, Red Stripe, Singha, Devils Backbone Gold Leaf Lager
+
+- :name: International Amber Lager
+  :category: 2
+  :subcategory: B
+  :aroma: Low to moderate malt aroma which can be grainy, with a very low to moderate caramel-sweet to toasty-malty aroma.  Hop aroma can range from low to none with a mildly floral or spicy character. Clean lager profile. A slight cooked corn aroma is acceptable.
+  :appearance: Golden-amber to reddish-copper color. Bright clarity. White to off-white foam stand which may not last.
+  :flavor: Low to moderate malt profile which can vary from dry to grainy-sweet. Low to moderate levels of caramel and toasty-bready notes can be evident. Low to medium-low corny sweetness is optional, but not a fault. Hop bitterness low to moderate, and hop flavor low to moderate, with a spicy, herbal, or floral character. The balance can be fairly malty to nearly even, with the bitterness becoming more noticeable but not objectionable. The bitterness level can increase if the malt character increases to match. Clean fermentation profile. Finish is moderately dry with a moderately malty aftertaste.
+  :mouthfeel: Light to medium body. Medium to high carbonation. Smooth; some examples can be creamy.
+  :overall_impression: A well-attenuated malty amber lager with an interesting caramel or toast quality and restrained bitterness.  Usually fairly well attenuated, and can have an adjunct quality to it. Smooth, easily-drinkable lager character.
+  :comments: A wide spectrum of mass-market Amber lagers developed either independently in various countries, or describing rather generic amber beers that may have had more historical relevance but who eventually changed into an indistinguishable product in modern times.
+  :history: Varies by country, but generally represents an adaptation of the mass-market International Lager or an evolution of indigenous styles into a more generic product.
+  :characteristic_ingredients: Two-row or six-row base malt. Color malts such as victory, amber, etc. Caramel malt adjuncts.  European or American hops or a combination of both.
+  :comparison: Less well-developed malt flavor than a Vienna lager, often with an adjunct taste.
+  :stats:
+    :og: 1.042 - 1.055
+    :bitterness: 8 - 25
+    :fg: 1.008 - 1.014
+    :color: 7 - 14
+    :abv: 4.6 - 6.0%
+  :commercial_examples: Schell's Oktoberfest, Capital Winter Sk?l, Dos Equis Amber, Yuengling Lager, Brooklyn Lager
+
+- :name: International Dark Lager
+  :category: 2
+  :subcategory: C
+  :aroma: Little to no malt aroma. Medium-low to no roast and caramel malt aroma. Hop aroma may range from none to light spicy or floral hop presence. Can have low levels of yeast character (green apples, DMS, or fruitiness).
+  :appearance: Deep amber to dark brown with bright clarity and ruby highlights. Foam stand may not be long lasting, and is usually light tan in color.
+  :flavor: Low to medium malty sweetness. with medium-low to no caramel and/or roasted malt flavors (and may include hints of coffee, molasses or cocoa). Hop flavor ranges from none to low levels, and is typically floral, spicy, or herbal. Low to medium hop bitterness. May have a very light fruitiness. Moderately crisp finish. The balance is typically somewhat malty. Burnt or moderately strong roasted malt flavors are a defect. 
+  :mouthfeel: Light to medium-light body. Smooth with a light creaminess. High carbonation.
+  :overall_impression: A darker and somewhat sweeter version of international pale lager with a little more body and flavor, but equally restrained in bitterness. The low bitterness leaves the malt as the primary flavor element, and the low hop levels provide very little in the way of balance.  
+  :comments: A broad range of international lagers that are darker than pale, and not assertively bitter and/or roasted. 
+  :history: Darker versions of International Pale Lagers often created by the same large, industrial breweries and meant to appeal to a broad audience. Often either a colored or sweetened adaptation of the standard pale industrial lager, or a more broadly accessible (and inexpensive) version of more traditional dark lagers.
+  :characteristic_ingredients: Two-or six-row barley, corn, rice, or sugars as adjuncts. Light use of caramel and darker malts.  Commercial versions may use coloring agents.
+  :comparison: Less flavor and richness than Munich Dunkel, Schwarzbier, or other dark lagers. Frequently uses adjuncts, as is typical of other International Lagers.
+  :stats:
+    :og: 1.044 - 1.056
+    :bitterness: 8 - 20
+    :fg: 1.008 - 1.012
+    :color: 14 - 22
+    :abv: 4.2 - 6%
+  :commercial_examples: "Dixie Blackened Voodoo, Shiner Bock, San Miguel Dark, Baltika #4, Saint Pauli Girl Dark"

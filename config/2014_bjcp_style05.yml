@@ -1,0 +1,79 @@
+---
+- :category: 5
+  :subcategory: A
+  :name: German Leichtbier
+  :aroma: Low to medium hop aroma, with a spicy, herbal, or floral character. Low to medium-low grainy-sweet or slightly crackery malt aroma.   
+  :appearance: Straw to pale gold in color. Brilliant clarity. Moderate white head with average to below average persistence.
+  :flavor: Low to medium grainy-sweet malt flavor initially. Medium hop bitterness. Low to medium hop flavor, with a spicy, herbal, or floral quality. Clean fermentation character, well-lagered. Dry finish with a light malty and hoppy aftertaste.
+  :mouthfeel: Light to very light body. Medium to high carbonation. Smooth, well-attenuated.
+  :overall_impression: A pale, highly-attenuated, light- bodied German lager with lower alcohol and calories than normal-strength beers. Moderately bitter with noticeable malt and hop flavors, the beer is still interesting to drink.
+  :comments: Marketed primarily as a diet-oriented beer with lower carbohydrates, alcohol, and calories. Pronounced "LEESHT-beer." May also be known as a Diat Pils or Helles, is in the schankbier class. Other variations of Leicht class beers can be made from Weiss bier, K?lsch, and Altbier.
+  :history: Traditional versions existed as drinks for physical laborers in factories or fields, but modern versions are more based on popular American products in the same class.
+  :characteristic_ingredients: Similar to a German Pils or Helles, continental Pils malt, German lager yeast, Saazer-type hops.
+  :comparison: Like a lower-alcohol, lighter-bodied, slightly less aggressive German Pils or Helles.
+  :stats:
+    :og: 1.026-1.034
+    :bitterness: 15-28
+    :fg: 1.006-1.010
+    :color: 2-5
+    :abv: 2.4-3.6%
+  :commercial_examples: Bitburger Light, Beck's Light, Paulaner M?nchner Hell Leicht, Paulaner Premium Leicht, Mahr's Leicht
+
+- :category: 5
+  :subcategory: B
+  :name: K?lsch
+  :aroma: Low to very low malt aroma, with a grainy- sweet character. A pleasant, subtle fruit aroma from fermentation (apple, cherry or pear) is acceptable, but not always present. A low floral, spicy or herbal hop aroma is optional but not out of place.  Some yeast strains may give a slight winy or sulfury character (this characteristic is also optional, but not a fault). Overall, the intensity of aromatics is fairly subtle but generally balanced, clean, and fresh.
+  :appearance: Very pale gold to light gold. Very clear (authentic commercial versions are filtered to a brilliant clarity). Has a delicate white head that may not persist.
+  :flavor: Soft, rounded palate comprising of a delicate flavor balance between soft yet attenuated malt, an almost imperceptible fruity sweetness from fermentation, and a medium-low to medium bitterness with a delicate dryness and slight crispness in the finish (but no harsh aftertaste). The malt tends to be grainy-sweet, possibly with a very light bready or honey quality. The hop flavor is variable, and can range from low to moderately-high; most are medium-low to medium intensity and have a floral, spicy, or herbal character. May have a malty-sweet impression at the start, but this is not required; in any event, should not have noticable residual sweetness. May have a slightly minerally or sulfury accent that accentuates the dryness and flavor balance. A slight wheat taste is rare but not a fault. Otherwise, very clean.
+  :mouthfeel: Medium-light to medium body (most are medium-light). Medium to medium-high carbonation. Smooth and generally crisp and well-attenuated.
+  :overall_impression: A clean, crisp, delicately-balanced beer usually with a very subtle fruit and hop character. Subdued maltiness throughout leads into a pleasantly well-attenuated and refreshing finish. Freshness makes a huge difference with this beer, as the delicate character can fade quickly with age.
+  :comments: Characterized in Germany as a top-fermented, lagered beer. Each K?ln brewery produces a beer of different character, and each interprets the Konvention slightly differently. Allow for a range of variation within the styl e when judging.  Note that drier versions may seem hoppier or more bitter than the IBU specifications might suggest. Due to its delicate flavor profile, K?lsch tends to have a relatively short shelf-life; older examples and imports can easily show some oxidation defects.  Served in a tall, narrow 200ml glass called a Stange.
+  :history: Cologne, Germany (K?ln) has a top-fermenting brewing tradition since the Middle Ages, but developed the beer now known as K?lsch in the late 1800s to combat encroaching bottom-fermented pale lagers. K?lsch is an appellation protected by the K?lsch Konvention (1986), and is restricted to the 20 or so breweries in and around K?ln. The Konvention simply defines the beer as a "light, highly attenuated, hop-accentuated, clear top-fermenting Vollbier." 
+  :characteristic_ingredients: Traditional German hops (Hallertau, Tettnang, Spalt or Hersbrucker). German Pils or pale malt.  Attenuative, clean ale yeast. Up to 20% wheat malt may be used, but this is quite rare in authentic versions. Water can vary from extremely soft to moderately hard. Traditionally uses a step mash program, although good results can be obtained using a single rest at 149 ?F. Fermented at cool ale temperatures (59-68 ?F) and lagered for at least a month, although many Cologne brewers ferment at 70 ?F and lager for no more than two weeks.
+  :comparison: To the untrained taster, easily mistaken for a cream ale or somewhat subtle Pils.
+  :stats:
+    :og: 1.044-1.050
+    :bitterness: 18-30 IBU
+    :fg: 1.007-1.011
+    :color: 3.5-50 SRM
+    :abv: 4.4-5.2%
+  :commercial_examples: Fr?h K?lsch, Reissdorf K?lsch, Gaffel K?lsch, S?nner K?lsch, M?hlen K?lsch, Sion K?lsch
+
+- :category: 5
+  :subcategory: C
+  :name: German Exportbier
+  :aroma: Low to medium hop aroma, typically floral, spicy, or herbal in character. Moderate grainy-sweet malt aroma. Clean fermentation profile. A slight sulfury note at the start that dissipates is not a fault, neither is a low background note of DMS.
+  :appearance: Light gold to deep gold. Clear. Persistent white head.
+  :flavor: Neither grainy-sweet malt nor floral, spicy, or herbal hops dominate, but both are in good balance with a touch of malty sweetness, providing a smooth yet crisply refreshing beer. Balance continues through the finish and the hop bitterness lingers in aftertaste (although some examples may finish slightly sweet). Clean fermentation character. Some mineral character might be noted from the water, although it usually does not come across as an overt minerally flavor.
+  :mouthfeel: Medium body, medium carbonation. Smooth but crisp.
+  :overall_impression: A pale, well-balanced, smooth German lager that is slightly stronger than the average beer with a moderate body and a mild, aromatic hop and malt character. 
+  :comments: Sometimes known as Dortmunder or Dortmunder Export. Brewed to a slightly higher starting gravity than other light lagers, providing a firm malty body and underlying maltiness to complement the sulfate-accentuated hop bitterness. The term "Export" is a beer strength descriptor under German brewing tradition, and is not strictly synonymous with the "Dortmunder" style; beer from other cities or regions can be brewed to Export strength, and labeled as such (even if not necessarily exported).
+  :history: The Dortmunder style developed in the Dortmund industrial region in the 1870s in response to pale Pilsner-type beers, it became very popular after World War II but declined in the 1970s. Other Export-class beers developed independently, and reflected a slightly stronger version of existing beers.
+  :characteristic_ingredients: Minerally water with high levels of sulfates, carbonates and chlorides, German or Czech noble hops, Pilsner malt, German lager yeast. Newer commercial versions can contain adjuncts and hop extract.
+  :comparison: Less finishing hops and more body than a Pils but more bitter than a Helles. 
+  :stats:
+    :og: 1.050-1.056
+    :bitterness: 20-30 IBU
+    :fg: 1.010-1.015
+    :color: 4-7 SRM
+    :abv: 4.8-6.0%
+  :commercial_examples: DAB Original, Dortmunder Union Export, Dortmunder Kronen, Great Lakes Dortmunder Gold, Barrel House Duveneck's Dortmunder, Gordon Biersch Golden Export, Flensburger Gold
+- :category: 5
+  :subcategory: D
+  :name: German Pils
+  :aroma: Medium-low to low grainy-sweet-rich malt character (often with a light honey and slightly toasted cracker quality) and distinctive flowery, spicy, or herbal hops. Clean fermentation profile. May optionally have a very light sulfury note that comes from water as much as yeast. The hops are moderately-low to moderately-high, often fading with age. The hop character should not totally dominate the malt presence. One-dimensional examples are inferior to the more complex qualities when all ingredients are sensed. May have a very low background note of DMS.
+  :appearance: Straw to light gold, brilliant to very clear, with a creamy, long-lasting white head.
+  :flavor: Medium to high hop bitterness dominates the palate and lingers into the aftertaste. Moderate to moderately-low grainy-sweet malt character supports the hop bitterness. Low to high floral, spicy, or herbal hop flavor. Clean fermentation profile. Dry to medium-dry, crisp finish with a bitter aftertaste and light malt flavor. Examples made with water with higher sulfate levels often will have a low sulfury flavor that accentuates the dryness and lengthens the finish; this is acceptable but not mandatory.  Some versions have a soft finish with more of a malt flavor, but still with noticeable hop bitterness and flavor.
+  :mouthfeel: Medium-light body. Medium to high carbonation.
+  :overall_impression: A light-bodied, highly-attenuated, gold-colored, bottom-fermented bitter German beer showing excellent head retention and an elegant, floral hop aroma. Crisp, clean, and refreshing, a German Pils showcases the finest quality German malt and hops.
+  :comments: Modern examples of Pils tend to become paler in color, drier in finish, and more bitter as you move from South to North in Germany, often mirroring the increase in sulfates in the water. The Pils found in Bavaria tend to be a bit softer in bitterness with more malt flavor and late hop character, yet still with sufficient hops and crispness of finish to differentiate itself from a Helles. The use of the term 'Pils' is more common in Germany than 'Pilsner' to differentiate it from the Czech style, and (some say) to show respect.
+  :history: Adapted from Czech Pilsner to suit brewing conditions in Germany, particularly water with higher mineral content and domestic hop varieties. First brewed in Germany in the early 1870s. Became more popular after WWII as German brewing schools emphasized modern techniques. Along with its sister beer, Czech Pilsner, is the ancestor of the most widely produced beer styles today. Average IBUs have dropped over time.
+  :characteristic_ingredients: Continental Pilsner malt, German hop varieties (especially Saazer-type varieties such as Tettnanger, Hallertauer, and Spalt for taste and aroma; Saaz is less common), German lager yeast.
+  :comparison: Lighter in body and color, drier and crisper with more of a lingering bitterness, and with higher carbonation than a Czech Pilsner. More hop character, malt flavor, and bitterness than International Pale Lagers. More hop character and bitterness with a drier, crisper finish than a Munich Helles; the Helles has more malt flavor, but of the same character as the Pils.
+  :stats:
+    :og: 1.044-1.050
+    :bitterness: 25-40 IBU
+    :fg: 1.008-1.013
+    :color: 2.0-5.0 SRM
+    :abv: 4.4-5.2%
+  :commercial_examples: Sch?nramer Pils, Trumer Pils, K?nig Pilsener, Paulaner Premium Pils, Stoudt Pils, Troegs Sunshine Pils
