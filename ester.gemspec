@@ -16,6 +16,7 @@ Gem::Specification.new do |s|
   s.description   = %q{New Republic Brewing's Ester chatbot}
   s.homepage      = 'https://github.com/NewRepublicBrewing/ester'
 
+  s.add_runtime_dependency 'activesupport'
   s.add_runtime_dependency 'gsl'
   s.add_runtime_dependency 'robut'
   s.add_runtime_dependency 'sqlite3'

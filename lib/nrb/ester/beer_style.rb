@@ -1,3 +1,4 @@
+require 'active_support/configurable'
 require 'ostruct'
 require 'robut'
 require 'yaml'
@@ -5,41 +6,24 @@ require 'yaml'
 module NRB; module Ester
   class BeerStyle < Robut
 
+    include ActiveSupport::Configurable
+
     class << self
-
-      attr_accessor :config
-
-      def bjcp_styles
-        @bjcp_styles ||= load_styles
-      end
-
-
-      def configure
-        self.config = default_config
-        yield config if block_given?
-      end
-
     private
-
-      attr_writer :bjcp_styles
-
-      def config_reader
-        config.config_reader
-      end
-
-
-      def default_config
-        OpenStruct.new(
-                        config_reader: YAML,
-                        style_path: File.join(Ester.configdir,'bjcp_styles.yml')
-                      )
-      end
-
-
       def load_styles
         config_reader.load(File.open(config.style_path))
       end
+    end
 
+
+    config_accessor(:config_reader, instance_accessor: false) { YAML }
+
+    config_accessor :style_path, instance_accessor: false do
+      File.join Ester.configdir, '2008_bjcp_styles.yml'
+    end
+
+    config_accessor :bjcp_styles, instance_accessor: false do
+      load_styles
     end
 
 
@@ -65,8 +49,43 @@ module NRB; module Ester
     end
 
 
+    def format_apearance(appearance)
+      format_generic "Appearance", appearance
+    end
+
+
     def format_aroma(aroma)
       format_generic "Aroma", aroma
+    end
+
+
+    def format_comments(comments)
+      format_generic "Comments", comments
+    end
+
+
+    def format_expamples(expamples)
+      format_generic "Commercial Examples", expamples
+    end
+
+
+    def format_flavor(flavor)
+      format_generic "Flavor", flavor
+    end
+
+
+    def format_ingredients(ingredients)
+      format_generic "Typical Ingredients", ingredients
+    end
+
+
+    def format_mouthfeel(mouthfeel)
+      format_generic "Mouthfeel", mouthfeel
+    end
+
+
+    def format_overall(overall)
+      format_generic "Oveall Impression", overall
     end
 
 
@@ -120,8 +139,9 @@ module NRB; module Ester
 
     def quips
       Ester.quips + [
-        "I doubt I'd like it.",
         "Bring me one.",
+        "I doubt I'd like it.",
+        "I think you made it up.",
         "Sounds tasty."
       ]
     end
@@ -196,5 +216,3 @@ module NRB; module Ester
 
   end
 end; end
-
-NRB::Ester::BeerStyle.configure

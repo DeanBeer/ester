@@ -1,0 +1,26 @@
+:%s/Commercial Examples:/  :commercial_examples:/g
+:%s/Aroma:/  :aroma:/g
+:%s/References:/  :references:/g
+:%s/Appearance:/  :appearance:/g
+:%s/Flavor:/  :flavor:/g
+:%s/Mouthfeel:/  :mouthfeel:/g
+:%s/Overall Impression:/  :overall_impression:/g
+:%s/Comments:/  :comments:/g
+:%s/History:/  :history:/g
+:%s/Varieties:/  :varieties:/g
+:%s/Style Comparison:/  :style_comparison:/g
+:%s/Characteristic Ingredients:/  :characteristic_ingredients:/g
+:%s/Varieties:/  :varieties:/g
+:%s/Entry Instructions:/  :entry_instructions:/g
+:%s/Vital Statistics:/  :vital_statistics:/g
+:%s/OG:/    :og:/g
+:%s/IBUs:/    :bitterness:/g
+:%s/FG:/    :fg:/g
+:%s/SRM:/    :color:/g
+:%s/ABV:/    :abv:/g
+
+:%s/ - /-/g
+
+:%s/:examples:/:commercial_examples:/g
+:%s/:overall:/:overall_impression:/g
+:%s/:ingredients:/:characteristic_ingredients:/g
